@@ -41,5 +41,3 @@ Most recent former members:
 ## Contact
 
 Chair LFMTP: [Email us](mailto:elaine.pimentel@gmail.com)
-
-[2022](./past-editions/2022/invited.shtml)
