@@ -24,7 +24,7 @@ url: "https://lfmtp.org/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll/scholar
 #   - jekyll-feed
