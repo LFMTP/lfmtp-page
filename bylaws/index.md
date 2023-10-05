@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bylaws
-toc: true
+toc: false
 show_sidebar: false
 ---
 
