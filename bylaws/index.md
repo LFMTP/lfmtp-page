@@ -5,7 +5,6 @@ toc: false
 show_sidebar: false
 ---
 
-# Bylaws
 ## Membership
 
 The Steering Committee (SC) is limited to seven (7) members. Each member is
