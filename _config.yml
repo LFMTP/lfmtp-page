@@ -19,7 +19,7 @@ email: carlos.olarte@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Logical Frameworks and Meta Languages, Theory and Practice.
 
-baseurl: "./" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lfmtp.org/" # the base hostname & protocol for your site
 
 # Build settings
