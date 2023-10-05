@@ -11,7 +11,7 @@ until 2005. These two workshops were merged in 2006 to form
 [LFMTP](http://lfmtp.org/), which has grown into one of the main
 venues for presenting results on type theories and logical frameworks.
 
- * [LFMTP'23](./2023/), Rome, Italy, affiliated with
+ * [LFMTP'23](./2023/){:target="_blank"}, Rome, Italy, affiliated with
    [FSCD'23](https://easyconferences.eu/fscd2023/), organized by Alberto
    Ciaffaglione (Università degli Studi di Udine) and Carlos Olarte (LIPN,
    Université Sorbonne Paris Nord)
