@@ -41,7 +41,7 @@ Each LFMTP workshop is preceeded by Business Meeting (BM), which is initiated
 by the SC chair (or a deputy from the SC) and conducted by email. The BM
 typically disccuses the following items:
 
- *  a report on the current LFMTP workshop
+ *  a report on the current LFMTP workshop;
  *  a discussion of next year's LFMTP workshop
 
 ## History
