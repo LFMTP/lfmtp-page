@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Bylaws
-menubar: docs_menu
 toc: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Bylaws
