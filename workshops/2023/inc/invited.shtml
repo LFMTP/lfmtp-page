@@ -1,0 +1,8 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+<h1>Invited talks </h1>
+<ul>
+<li> <a href="https://nikivazou.github.io/">Niki Vazou</a> (IMDEA Software Institute Madrid, Spain)</li>
+</ul>
