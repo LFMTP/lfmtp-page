@@ -33,13 +33,7 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - vendor
   - README.md
-
-# Scholar
-scholar:
-  bibliography_template: bibtex
-  details_layout: none
 
 # Menu bar
 fixed_navbar: top
