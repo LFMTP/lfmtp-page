@@ -43,3 +43,5 @@ scholar:
 
 # Menu bar
 fixed_navbar: top
+
+permalink: pretty
