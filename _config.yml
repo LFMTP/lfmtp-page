@@ -43,3 +43,4 @@ scholar:
   bibliography_template: bibtex
   details_layout: none
 
+permalink: pretty
