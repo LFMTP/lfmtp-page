@@ -41,3 +41,5 @@ scholar:
   bibliography_template: bibtex
   details_layout: none
 
+# Menu bar
+fixed_navbar: top
