@@ -20,7 +20,7 @@ venues for presenting results on type theories and logical frameworks.
    2022](https://floc2022.org/), organized by David Baelde (ENS Cachan, France)
    and Vivek Nigam (Federal University of Paraíba, Brazil)
 
- * [LFMTP'21](./2021), Pittsburgh, Pennsylvania, USA, affiliated with [CADE
+ * [LFMTP'21](./2021){:target="_blank"}, Pittsburgh, Pennsylvania, USA, affiliated with [CADE
    28](https://www.cs.cmu.edu/~mheule/CADE28/), organized by Elaine Pimentel
    (Universidade Federal do Rio Grande do Norte: Natal, RN, BR) and Enrico
    Tassi (Inria, Sophia-Antipolis, FR)
