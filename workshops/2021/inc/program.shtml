@@ -1,0 +1,238 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/program.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/program.css" />
+
+
+<h1>Workshop Program</h1>
+<p> The Proceedings of LFMTP 2021 appears as the <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2021">EPTCS 337 volume</a>.</p>
+<p>All times are EDT. The program is also available at the <a href="https://easychair.org/smart-program/CADE-28/LFMTP-index.html">CADE-28 website</a>.</p>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">08:00-10:00</td>
+        <td class="title">Meta-Theory Reasoning</td>
+        <td class="chair">(chair: Elaine Pimentel)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">08:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited"><a href="https://gisellereis.com/">Giselle Reis</a></span>
+      </div>
+      <div class="title">
+        Facilitating Meta-Theory Reasoning
+        <span class="abstract" src="inc/abstracts/giselle.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.1">paper</a></span> 
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">09:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Laila El-Beheiry</spam>, <span class="person">Giselle Reis</spam> and <span class="person">Ammar Karkour</span>
+      </div>
+      <div class="title">
+        SMLtoCoq: Automated Generation of Coq Specifications and Proof Obligations from SML Programs with Contracts
+        <span class="abstract" src="inc/abstracts/laila.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.6">paper</a></span>
+      </div>
+    </td>
+  </tr>
+ <tr class="talk">
+    <td class="time">09:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Qinxiang Cao</spam> and <span class="person">Xiwei Wu</span>
+      </div>
+      <div class="title">
+        Countability of Inductive Types Formalized in the Object-Logic Level
+        <span class="abstract" src="inc/abstracts/cao.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.5">paper</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">10:00-10:30</span>
+    <span class="title coffeebreak"></span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">10:30-12:00</td>
+        <td class="title">Foundations</td>
+        <td class="chair">(chair: Florian Rabe)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">10:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Johannes Schoisswohl</spam> and <span class="person">Laura Kovacs</span>
+      </div>
+      <div class="title">
+        Automating Induction by Reflection
+        <span class="abstract" src="inc/abstracts/laura.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.4">paper</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+  <td class="time">11:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Gilles Dowek</span>
+      </div>
+      <div class="title">
+        Interacting safely with an unsafe environment
+        <span class="abstract" src="inc/abstracts/gilles.txt"></span>
+       <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.3">paper</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+  <td class="time">11:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">David Baelde</span>,  
+        <span class="person">Stephanie Delaune</span>,  
+        <span class="person">Charlie Jacomme</span>, 
+        <span class="person">Adrien Koutsos</span> and <span class="person">Solène Moreau</span>, 
+      </div>
+      <div class="title">
+        Foundations of the Squirrel meta-logic for reasoning over security protocols
+        <span class="abstract" src="inc/abstracts/adrien.txt"></span>
+        <span class="slides"><a href="https://hal.archives-ouvertes.fr/hal-03264227/">paper</a></span>
+      </div>
+    </td>
+  </tr>
+
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">12:00-12:30</span>
+    <span class="title lunchbreak"></span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">12:30-14:00</td>
+        <td class="title">MetaCoq</td>
+        <td class="chair">(chair: Enrico Tassi)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">12:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited"><a href="https://sozeau.gitlabpages.inria.fr/www/">Matthieu Sozeau</a></span>
+      </div>
+      <div class="title">
+        The MetaCoq Project
+        <span class="abstract" src="inc/abstracts/matthieu.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.2">paper</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+  <td class="time">13:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Florian Rabe</span> and
+        <span class="person">Navid Roux </span>
+      </div>
+      <div class="title">
+        Translating Formalizations of Type Theories from Intrinsic to Extrinsic Style
+        <span class="abstract" src="inc/abstracts/navid.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.7">paper</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">14:00-14:30</span>
+    <span class="title coffeebreak"></span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">14:30-16:00</td>
+        <td class="title">Formalization</td>
+        <td class="chair">(chair: Giselle Reis)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+  <td class="time">14:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Mary Southern</span> and 
+        <span class="person">Gopalan Nadathur</span>
+      </div>
+      <div class="title">
+        Adelfa: A System for Reasoning about LF Specifications
+        <span class="abstract" src="inc/abstracts/mary.txt"></span>
+        <span class="slides"><a href="http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.8">paper</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">15:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Bruno Cuconato</span>,
+        <span class="person">Jefferson de Barros Santos</span> and
+        <span class="person">Edward Hermann Haeusler</span>
+      </div>
+      <div class="title">
+        A logical framework with a graph meta-language
+       <span class="abstract" src="inc/abstracts/bruno.txt"></span>
+       <span class="slides"><a href="https://arxiv.org/abs/2106.13843">paper</a></span> 
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">15:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person">Anduo Wang</span>
+      </div>
+      <div class="title">
+        Towards a Semantic Framework for Policy Exchange in the Internet
+        <span class="abstract" src="inc/abstracts/wang.txt"></span>
+        <!-- <span class="slides"><a href="inc/slides/LFMTP-s4t3-gerard-miller.pdf">slides</a></span> -->
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+

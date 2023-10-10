@@ -1,0 +1,137 @@
+/* Heavily inspired from VSL'14 */
+
+.session {
+  font-size: 10pt;
+  margin-bottom: 1.5ex;
+}
+.session .heading {
+  background-color: lightsteelblue;
+  font-size: 11pt;
+  margin: 3pt 0 1pt;
+  padding: 3pt 5pt;
+}
+.session .heading table {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.session .heading table td {
+  padding: 0;
+  margin: 0;
+  font-size: inherit;
+}
+.session .heading .interval {
+  font-weight: bold;
+  width: 8em;
+}
+.session .heading .title {
+  margin-left: 16pt;
+}
+.session .heading .chair {
+  text-align:right;
+  font-style: italic;
+}
+.talks {
+  margin: 2pt 0 2pt 20pt;
+}
+.talk {
+  vertical-align: top;
+}
+.presentation {
+  padding-left: 5pt;
+  padding-bottom: 0.5ex;
+}
+.talk .title {
+  font-weight: bold;
+  padding: 1pt 0;
+}
+.person {
+  font-style: italic;
+}
+.talk .invited:after {
+  content: "(invited speaker)";
+  margin-left: 0.8em;
+  font-style: normal;
+}
+
+.abstract {
+  padding: 0ex 0.35em 0ex 0.2em;
+  margin-right: 4pt;
+  border: solid 1pt peru;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: wheat;
+  color: black;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 80%;
+  white-space: nowrap;
+  position: relative;
+  bottom: 1.5pt;
+  cursor: pointer;
+}
+@media print { 
+  .abstract { display: none; }
+}
+
+.show-abstract {
+  display: none;
+  padding: 1ex 2em 0.5ex 2em;
+  font-style: italic;
+  font-weight: normal;
+  text-align: justify;
+  font-size: 95%;
+}
+
+.slides {
+  padding: 0ex 0.35em 0ex 0.2em;
+  border: solid 1pt steelblue;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: lightsteelblue;
+  color: black;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 80%;
+  white-space: nowrap;
+  position: relative;
+  bottom: 1.5pt;
+  cursor: pointer;
+}
+@media print { 
+  .slides { display: none; }
+}
+
+.session .break {
+  background-color: wheat;
+  font-size: 11pt;
+  margin: 3pt 0 1pt;
+  padding: 3pt 5pt;
+}
+.session .break .interval {
+  color: #555;
+  font-weight: bold;
+}
+.session .break .title {
+  color: #555;
+  margin-left: 14pt;
+  padding-left: 18pt;
+}
+.coffeebreak {
+  background: rgba(0, 0, 0, 0) url("../img/coffee.png") no-repeat scroll 0 0;
+}
+.coffeebreak:after {
+  content: "Coffee Break";
+}
+.lunchbreak {
+  background: rgba(0, 0, 0, 0) url("../img/lunch2.png") no-repeat scroll 0 0;
+}
+.lunchbreak:after {
+  content: "Lunch Break";
+}
+.dinner {
+  background: rgba(0, 0, 0, 0) url("../img/lunch2.png") no-repeat scroll 0 0;
+}
+.dinner:after {
+  content: "Dinner";
+}

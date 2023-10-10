@@ -1,0 +1,6 @@
+Type theories can be formalized using the intrinsically (hard) or the extrinsically (soft) typed style. In large libraries of type theoretical features, often both styles are present, which can lead to code duplication and integration issues.
+
+We define an operator that systematically translates a hard-typed into the corresponding soft-typed formulation. Even though this translation is known in principle, a number of subtleties make it more difficult than naively expected.
+Importantly, our translation preserves modularity, i.e., it maps structured sets of hard-typed features to correspondingly structured soft-typed ones.
+
+We implement our operator in the MMT system and apply it to a library of type-theoretical features.

@@ -1,0 +1,30 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+
+<h1>Invited talks</h1>
+
+<a name="Reis"></a>
+
+<h3 class="title">Facilitating Meta-Theory Reasoning</h3>
+
+<p class="speaker">
+  <b><a href="https://gisellereis.com/">Giselle Reis</a></b>
+  <span class="institution">CMU, Qatar</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/giselle.txt"></p>
+
+<a name="Sozeau"></a>
+
+<h3 class="title">The MetaCoq ProjectL</h3>
+
+<p class="speaker">
+  <b><a href="https://sozeau.gitlabpages.inria.fr/www/">
+Matthieu Sozeau</a></b>
+  <span class="institution">Inria, France</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/matthieu.txt"></p>
+

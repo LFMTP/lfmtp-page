@@ -1,0 +1,6 @@
+We conjecture that the relative unpopularity of logical frameworks among practitioners is partly due to their complex meta-languages, which often demand both programming skills and theoretical knowledge of the meta-language in question for them to be fruitfully used.
+We present ongoing work on a logical framework with a meta-language based on graphs.
+A simpler meta-language leads to a shallower embedding of the object language, but hopefully leads to easier implementation and usage.
+A graph-based logical framework also opens up interesting possibilities in time and space performance, by the use of heavily optimized graph databases as backends, and by proof compression algorithms geared towards graphs.
+Deductive systems can be specified using simple domain specific languages that build on top of the graph database's query language, and there is support for both interactive (through a web-based interface) and semiautomatic (following user-defined tactics specified by a domain-specific language) proof modes.
+We have so far implemented nine systems for propositional logics, including Fitch-style and backwards-directed Natural Deduction systems for intuitionistic and classical logic (with the classical systems reusing the rules of the intuitionistic ones), and a Hilbert-style system for the K modal logic.

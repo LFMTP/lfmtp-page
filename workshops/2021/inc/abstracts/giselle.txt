@@ -1,0 +1,18 @@
+Structural proof theory is praised for being a symbolic approach to
+reasoning and proofs, in which one can define schemas for reasoning
+steps and manipulate proofs as a mathematical structure. For this to
+be possible, proof systems must be designed as a set of rules such
+that proofs using those rules are correct by construction. Therefore,
+one must consider all ways these rules can interact and prove that
+they satisfy certain properties which makes them “well-behaved”. This
+is called the meta-theory of a proof system.
+Meta-theory proofs typically involve many cases on structures with
+lots of symbols. The majority of cases are usually quite similar, and
+when a proof fails, it might be because of a sub-case on a very
+specific configuration of rules. Developing these proofs by hand is
+tedious and error-prone, and their combinatorial nature suggests they
+could be automated.
+There are various approaches on how to automate, either partially or
+completely, meta-theory proofs. In this talk, I will present some
+techniques that I have been involved in for facilitating meta-theory
+reasoning.

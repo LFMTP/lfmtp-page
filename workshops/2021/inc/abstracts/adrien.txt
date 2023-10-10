@@ -1,0 +1,32 @@
+The formal verification of security protocols can be carried out
+in two categories of models. Symbolic models, pioneered by Dolev and
+Yao, represent messages by first-order terms and attacker capabilities
+by inference rules or equational theories. This approach allows
+automatic verification, notably using techniques from rewriting and
+logic. The computational model, however, represents messages as
+bitstrings and attackers as probabilistic polynomial-time (PTIME) Turing
+machines. It is the standard model for provable security in
+cryptography, but formal verification in that model remains challenging.
+Bana and Comon have recently proposed a compelling approach
+to derive guarantees in the computational model, which they call
+the computationally complete symbolic attacker (CCSA).
+It is based on first-order logic, with complex axioms
+derived from cryptographic assumptions. Verification in the original
+CCSA approach involves a translation of protocol traces into
+first-order terms that necessitates to bound the length of traces.
+The generated goals are difficult to process by humans and, so far,
+cannot be handled automatically either.
+We have proposed a refinement of the approach based on a meta-logic
+which conveniently replaces the translation step. We have implemented
+this refined approach in an interactive theorem prover, Squirrel,
+and validated it on a first set of case studies.
+In this paper, we present some improvements of the foundations of
+the Squirrel meta-logic and of its proof system, which are required as we
+are considering more complex case studies.
+We extend our model to support memory cells in order to allow the
+analysis of security protocols that manipulate
+states.
+Moreover, we adapt the notion of trace model, which provides the semantics of our
+meta-logic formulas, to enable more natural and expressive modelling.
+We also present a generalized proof system which allows to derive more
+protocol properties.

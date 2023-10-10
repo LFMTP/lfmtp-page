@@ -1,0 +1,7 @@
+We give a presentation of Pure type systems where contexts need not be
+well-formed and show that this presentation is equivalent to the usual
+one. The main motivation for this presentation is that, when we
+extend Pure type systems with computation rules, like in the logical
+framework Dedukti, we want to declare the constants before the
+computation rules that are needed to check the well-typedness of their
+type.
