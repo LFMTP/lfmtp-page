@@ -1,0 +1,7 @@
+Formalising metatheory in the Coq proof assistant is tedious as native support for reasoning about languages with binders is marginal at best.
+The Autosubst framework automates working with de~Brujin terms: for each annotated inductive type, it generates a corresponding substitution operation and a decision procedure for assumption-free substitution lemmas.
+A key part of the equational theory are parallel substitutions which combine multiple single-variable substitutions.
+However, due to its separate treatment of sorts Autosubst lacks support for mutual inductive types.
+This restriction is removed in our prototype implementation of Autosubst 2: second-order HOAS specifications are translated into potentially mutual inductive term sorts.
+Again, parallelising substitutions is the key: we introduce vector substitutions to combine the application of multiple parallel substitutions into exactly one instantiation operation for each sort.
+The resulting equational theory is both simpler and more expressive than that of the original Autosubst framework.

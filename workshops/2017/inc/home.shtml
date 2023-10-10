@@ -1,0 +1,112 @@
+<p>
+This is the homepage of LFMTP 2017.
+</p>
+
+<p>
+<b>New!</b>
+The <a href="http://dl.acm.org/citation.cfm?id=3130261">Formal Proceedings</a> and the <a href="https://www.dimi.uniud.it/la-ricerca/pubblicazioni/preprints/5.2017/">Work in progress Proceedings</a> are online!
+</p>
+
+<p>
+Logical frameworks and meta-languages form a common substrate for
+representing, implementing, and reasoning about a wide variety of deductive
+systems of interest in logic and computer science. Their design and
+implementation and their use in reasoning tasks ranging from the correctness
+of software to the properties of formal computational systems have been the
+focus of considerable research over the last two decades. This workshop will
+bring together designers, implementors, and practitioners to discuss various
+aspects impinging on the structure and utility of logical frameworks,
+including the treatment of variable binding, inductive and co-inductive
+reasoning techniques and the expressiveness and lucidity of the reasoning
+process.
+</p>
+<p>
+LFMTP 2017 will provide researchers a forum to present state-of-the-art
+techniques and discuss progress in areas such as the following:</p>
+<ul>
+<li>Encoding and reasoning about the meta-theory of programming languages and
+    related formally specified systems.
+</li>
+<li>Theoretical and practical issues concerning the treatment of variable
+    binding, especially the representation of, and reasoning about, datatypes
+    defined from binding signatures.
+</li>
+<li>Logical treatments of inductive and co-inductive definitions and
+    associated reasoning techniques.
+</li>
+<li>New theory contributions: canonical and substructural frameworks,
+    contextual frameworks, proof-theoretic foundations supporting binders,
+    functional programming over logical frameworks, homotopy
+    type theory.
+</li>
+<li>Applications of logical frameworks, e.g., proof-carrying architectures, verification of programs and systems.
+</li>
+<li>Techniques for programming with binders in functional programming
+    languages such as Haskell, OCaml, or Agda and logic programming languages
+    such as lambda Prolog or Alpha-Prolog.
+</li>
+</ul>
+<p>
+LFMTP 2017 will be also the occasion to celebrate the 70th birthday of Randy Pollack, author of the LEGO proof assistant and many other contributions to this field.
+</p>
+
+<h2>Important Dates</h2> 
+
+<ul>
+<li>Abstract registration deadline:  June 18, 2017</li>
+<li>Submission deadline: June 25, 2017</li>
+<li>Notification to authors: July 30, 2017</li>
+<li>Final version deadline  August 13, 2017</li>
+<li>Workshop: September 8, 2017</li>
+</ul>
+
+<h2>Submission</h2>
+
+<p>The following paper categories are welcome:</p>
+<ul>
+<li><b>Full papers</b> describing original research and not simultaneously submitted to another journal or conference.</li>
+<li><b>Work-in-progress reports</b>, in a broad sense. Those do not need to report fully polished research results, but should be interesting for the community at large.</li>
+</ul>
+<p>Submitted papers should be in PDF, formatted using the <a href="https://www.acm.org/publications/proceedings-template">ACM SIGCONF format</a>. The page limit is 8 pages for full papers, and 4 pages for work-in-progress reports.
+</p>
+<p>  
+Submission is via EasyChair.
+ <a href="https://easychair.org/conferences/?conf=lfmtp2017">Submit to LFMTP17 now!</a> 
+</p>
+
+<h2>Proceedings</h2>
+
+<p>
+Accepted regular papers will be included in the proceedings, which will be
+published in the ACM Digital Library.
+
+
+
+<h2>Program Committee</h2>
+
+<ul>
+    <li>Thorsten&nbsp;Altenkirch (University of Nottingham, UK)</li>
+    <li>Kaustuv&nbsp;Chaudhuri (INRIA, France)</li>
+    <li>Gilles&nbsp;Dowek (ENS Cachan, France)</li>
+    <li>Amy&nbsp;Felty (University of Ottawa, Canada)</li>
+    <li>Andrzej&nbsp;Filinski (University of Copenhagen, Denmark)</li>
+    <li>Marino&nbsp;Miculan (DMIF, University of Udine, Italy), &nbsp;co-chair</li>
+    <li>Florian&nbsp;Rabe (Jacobs University Bremen, Germany), co-chair</li>
+    <li>Wilmer&nbsp;Ricciotti (LFCS, University of Edinburgh, UK)</li>
+    <li>Claudio Sacerdoti Coen (University of Bologna, Italy)</li>
+    <li>Kristina&nbsp;Sojakova (Appalachian State University,&nbsp;USA)</li>
+</ul>
+
+
+<h2>Organizing Committee</h2>
+
+<ul>
+<li><a href="http://kwarc.info/frabe">Florian Rabe</a> (Jacobs University Bremen)</li>
+<li><a href="https://users.dimi.uniud.it/~marino.miculan/wordpress/">Marino Miculan</a> (DMIF, University of Udine)</li>
+</ul>
+
+<h2>Registration</h2>
+
+<p>
+Registration will be handled by <a href="http://www.cs.ox.ac.uk/conferences/fscd2017/registration.html">FSCD</a>.
+</p>

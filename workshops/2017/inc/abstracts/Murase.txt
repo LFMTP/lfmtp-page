@@ -1,0 +1,9 @@
+Under the Curry-Howard isomorphism, modal operators correspond to the type of closed code. Nanevski et al. generalized this
+result and proposed the contextual modal type theory. They introduced the notion of context that corresponds to free variables of
+code. Therefore the contextual modal type theory treats open code.
+This paper provides another formulation of contextual modal
+type theory: Kripke-style contextual modal type theory. Our type
+system is based on the Kripke-style formulation of modal logic,
+whereas the original system is based on the dual-context formulation. The resulting system has Lisp-like quasiquotation, and hence
+we expect that KCMTT is adequate for the basis of syntactical
+metaprogramming.

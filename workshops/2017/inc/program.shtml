@@ -1,0 +1,276 @@
+<script type="text/javascript"            src="inc/lib/jquery-1.9.1.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/program.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/program.css" />
+
+
+<h1>Workshop Program</h1>
+
+<p style="text-align:center; font-size:105%;">
+</p>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">09:20-09:30</td>
+        <td class="title">Welcome Message</td>
+        <td class="chair">Marino Miculan and Florian Rabe</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">09:30-11:00</td>
+        <td class="title">Session 1</td>
+        <td class="chair">(chair: Marino Miculan)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">09:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited">Andrew Appel</span>
+      </div>
+      <div class="title">
+        Verifiable C, a Higher-order Impredicative Concurrent Separation Logic in Coq
+        <span class="abstract" src="inc/abstracts/Appel.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/appel.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">10:30</td>
+    <td class="presentation">
+      <div class="authors">
+        Andreas Abel, Alberto Momigliano and Brigitte Pientka
+		<span class="abstract" src="inc/abstracts/Abel_et_al.txt"></span>
+      </div>
+      <div class="title">
+        <a href="inc/papers/paper_8_abel.pdf">POPLMark Reloaded</a>
+      </div>
+      <div>
+	  <a href="inc/slides/pientka.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">11:00-11:30</td>
+        <td class="title">Morning tea break</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">11:30-13:00</td>
+        <td class="title">Session 2</td>
+        <td class="chair">(chair: Andreas Abel)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">11:30</td>
+    <td class="presentation">
+      <div class="authors">
+        Jeff Polakow
+      </div>
+      <div class="title">
+        <a href="inc/papers/p15-polakow.pdf">Uniform Atomic Ordered Linear Logic</a>
+      </div>
+      <div>
+	  <a href="inc/slides/polakow.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">12:00</td>
+    <td class="presentation">
+      <div class="authors">
+        Claude Stolze, Luigi Liquori, Furio Honsell and Ivan Scagnetto
+      </div>
+      <div class="title">
+        <a href="inc/papers/p1-stolze.pdf">Towards a Logical Framework with Intersection and Union Types</a>
+		<span class="abstract" src="inc/abstracts/Stolze_et_al.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/stolze.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">12:30</td>
+    <td class="presentation">
+      <div class="authors">
+        Yuito Murase
+      </div>
+      <div class="title">
+        <a href="inc/papers/paper_4_murase.pdf">Kripke-Style Contextual Modal Type Theory</a>
+		<span class="abstract" src="inc/abstracts/Murase.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/murase.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">13:00-14:00</td>
+        <td class="title">Lunch break</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">14:00-15:30</td>
+        <td class="title">Session 3</td>
+        <td class="chair">(chair: Brigitte Pientka)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">14:00</td>
+    <td class="presentation">
+      <div class="authors">
+        Roberto Blanco, Dale Miller and Alberto Momigliano
+      </div>
+      <div class="title">
+        <a href="inc/papers/paper_6_blanco.pdf">Property-Based Testing via Proof Reconstruction: Work-in-progress</a>
+		<span class="abstract" src="inc/abstracts/Blanco_et_al.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/momigliano.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">14:30</td>
+    <td class="presentation">
+      <div class="authors">
+        Michael D. Ariotti and John Tang Boyland
+      </div>
+      <div class="title">
+        <a href="inc/papers/paper_2_ariotti.pdf">Making Substitutions Explicit in SASyLF</a>
+		<span class="abstract" src="inc/abstracts/Ariotti_et_al.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/ariotti.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">15:00</td>
+    <td class="presentation">
+      <div class="authors">
+        Jonas Kaiser, Steven Schäfer and Kathrin Stark
+      </div>
+      <div class="title">
+        <a href="inc/papers/p10-kaiser.pdf">Autosubst 2: Towards Reasoning with Multi-Sorted de Bruijn Terms and Vector Substitutions</a>
+		<span class="abstract" src="inc/abstracts/Kaiser_et_al.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/stark.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">15:30-16:00</td>
+        <td class="title">Afternoon tea break</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">16:00-17:30</td>
+        <td class="title">Session 4 (dedicated to Randy Pollack)</td>
+        <td class="chair">(chair: Alberto Momigliano)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">16:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span>Randy Pollack</span>
+      </div>
+      <div class="title">
+        Beta reduction without rule ξ
+        <span class="abstract" src="inc/abstracts/Pollack.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/pollack.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">16:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited">James McKinna</span>
+      </div>
+      <div class="title">
+        Names, Places, and Things; fragments of a partial intellectual biography of Randy Pollack
+        <span class="abstract" src="inc/abstracts/McKinna.txt"></span>
+      </div>
+      <div>
+	  <a href="inc/slides/mckinna.pdf">slides</a>
+	  </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">19:15-??:??</td>
+        <td class="title">Workshop Dinner</td>
+      </tr>
+    </table>
+  </div>
+We meet for a joint dinner at <a href="http://4500miles.co.uk/oxford/#/">4500 Miles from Delhi</a> at 19:15.
+All attendants and friends of LFMTP are welcome to join.
+
+The restaurant is <a href="https://www.google.co.uk/maps/place/4500+Miles+From+Delhi/@51.7557823,-1.2684969,15z/data=!4m5!3m4!1s0x4876c6a379f672e3:0xecde4796333017de!8m2!3d51.7526874!4d-1.2652997?hl=en&dcr=0"> about 1 kilometer south of the workshop venue</a>.
+Some of us will meet at 18:50 at the workshop venue to walk there together.
+</div>

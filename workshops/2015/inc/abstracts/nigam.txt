@@ -1,0 +1,8 @@
+In this talk, we will review subexponentials, a refinement of linear
+logic exponentials, and highlight their applications. We will discuss
+their theory and show that a great number of systems can be specified as
+linear logic theories with subexponentials. Examples include proof
+systems for linear authorization logics and modal logics, and a number
+of concurrent constraint programming languages, including languages
+with spatial, epistemic and temporal modalities as well as soft
+constraints.

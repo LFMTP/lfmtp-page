@@ -1,0 +1,73 @@
+Call for Papers
+
+**** LFMTP 2017: Logical Frameworks and Meta-Languages: Theory and Practice  ****
+   
+   including a special session to celebrate the 70th birthday of Randy Pollack
+
+Affiliated with FSCD 2017
+Oxford, United Kingdom, September 8, 2017
+
+Conference website	http://lfmtp.org/workshops/2017/home.shtml
+Submission link	https://easychair.org/conferences/?conf=lfmtp2017
+
+** Important dates:
+
+Abstract registration deadline:	June 18, 2017
+Submission deadline: June 25, 2017
+Notification to authors: July 30, 2017
+Final version deadline: August 13, 2017
+
+
+** Invited Speakers
+
+Andrew Appel, https://www.cs.princeton.edu/~appel/
+James McKinna, http://homepages.inf.ed.ac.uk/jmckinna/
+
+** Description
+
+Logical frameworks and meta-languages form a common substrate for representing, implementing, and reasoning about a wide variety of deductive systems of interest in logic and computer science. Their design and implementation on the one hand and their use in reasoning tasks ranging from the correctness of software to the properties of formal computational systems on the other hand have been the focus of considerable research over the last three decades.
+This workshop brings together designers, implementors, and practitioners to discuss various aspects impinging on the structure and utility of logical frameworks, including the treatment of variable bindings, inductive and co-inductive reasoning techniques, and the expressivity and lucidity of the reasoning process.
+
+LFMTP 2017 will provide researchers a forum to present state-of-the-art techniques and discuss progress in areas such as the following:
+- Encoding and reasoning about the meta-theory of programming languages and related formally specified systems.
+- Theoretical and practical issues concerning the treatment of variable binding, especially the representation of, and reasoning about, datatypes defined from binding signatures.
+- Logical treatments of inductive and co-inductive definitions and associated reasoning techniques.
+- New theory contributions such as canonical and substructural frameworks, contextual frameworks, proof-theoretic foundations supporting binders, functional programming over logical frameworks, or homotopy type theory.
+- Systematic translation, combination, and integration of logics or theorem prover libraries.
+- Applications of logical frameworks, e.g. in certification and guarantee of security properties.
+- Techniques for programming with binders in functional programming languages such as Haskell, OCaml, or Agda and logic programming languages such as lambda Prolog or Alpha-Prolog.
+
+LFMTP 2017 will be also the occasion to celebrate the 70th birthday of Randy Pollack, author of the LEGO proof assistant and many other contributions to this field.
+
+
+** Submission Guidelines
+
+The following paper categories are welcome:
+- Full papers describing original research and not simultaneously submitted to another journal or conference. 
+- Work-in-progress reports, in a broad sense. Those do not need to report fully polished research results, but should be interesting for the community at large.
+
+Submitted papers should be in PDF, formatted using the ACM SIGCONF format. The page limit is 8 pages for full papers, and 4 pages for work-in-progress reports.
+Submission link	is at https://easychair.org/conferences/?conf=lfmtp2017
+
+
+** Program Committee
+
+Thorsten Altenkirch (University of Nottingham, UK)
+Kaustuv Chaudhuri (INRIA, France)
+Gilles Dowek (ENS Cachan, France)
+Amy Felty (University of Ottawa, Canada)
+Andrzej Filinski (University of Copenhagen, Denmark)
+Marino Miculan (DMIF, University of Udine, Italy),  co-chair
+Florian Rabe (Jacobs University Bremen, Germany), co-chair
+Wilmer Ricciotti (LFCS, University of Edinburgh, UK)
+Claudio Sacerdoti Coen (University of Bologna, Italy)
+Kristina Sojakova (Appalachian State University, USA)
+
+** Organizing committee
+
+Florian Rabe (Jacobs University Bremen, Germany)
+Marino Miculan (DMIF, University of Udine, Italy)
+
+** Contact
+
+All questions about submissions should be emailed to lfmtp2017@easychair.org

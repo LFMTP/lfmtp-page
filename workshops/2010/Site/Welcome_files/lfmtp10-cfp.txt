@@ -1,0 +1,110 @@
+
+		    5th International Workshop on
+Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP'10)
+		     http://lfmtp10.dimi.uniud.it
+
+		July 14, 2010, Edinburgh, Scotland, UK
+		Part of the Federated Logic Conference
+	Affiliated with Logic in Computer Science (LICS 2010)
+
+			   CALL FOR PAPERS
+
+Important dates (NEW):
+---------------------------------------------------------------------
+Abstract submission:      1 April 2010
+Paper submission:         4 April 2010
+Author notification:      1 May 2010
+Pre-proceedings version:  14 May 2010
+Workshop day:             14 July 2010
+Post-proceedings version: 14 August 2010
+---------------------------------------------------------------------
+
+The LFMTP workshop continues the International workshop on Logical
+Frameworks and Meta-languages (LFM) and the MERLIN workshop on
+MEchanized Reasoning about Languages with variable BIndingIN.
+
+Logical frameworks and meta-languages form a common substrate for
+representing, implementing, and reasoning about a wide variety of
+deductive systems of interest in logic and computer science. Their
+design and implementation on the one hand and their applications in
+for example proof-carrying code have been the focus of considerable
+research over the last two decades. This workshop will bring together
+designers, implementors, and practitioners to discuss all aspects of
+logical frameworks and variable binding.
+
+The broad subject areas of LFMTP are:
+
+* The automation and implementation of the meta-theory of programming
+  languages and related calculi, particularly work which involves
+  variable binding and fresh name generation.
+* The theoretical and practical issues concerning the encoding of
+  variable binding and fresh name generation, especially the
+  representation of, and reasoning about, datatypes defined from binding
+  signatures.
+* Case studies of meta-programming, and the mechanization of the
+  (meta)theory of descriptions of programming languages and other
+  calculi.  Papers focusing on logic translations and on experiences
+  with encoding programming languages theory are particularly welcome.
+
+Topics include, but are not limited to
+
+    * logical framework design
+    * meta-theoretic analysis
+    * applications and comparative studies
+    * implementation techniques
+    * efficient proof representation and validation
+    * proof-generating decision procedures and theorem provers
+    * proof-carrying code
+    * substructural frameworks
+    * semantic foundations
+    * methods for reasoning about logics
+    * formal digital libraries
+
+Program Committee:
+
+Stefan Berghofer  (TU Munich)
+Yves Bertot       (INRIA Sophia-Antipolis)
+Karl Crary        (Carnegie Mellon University, PC co-chair)
+Amy Felty         (University of Ottawa)
+Marino Miculan    (University of Udine, PC co-chair)
+Benjamin Pierce   (University of Pennsylvania)
+Andrew Pitts      (Cambridge University)
+Carsten Schürmann (IT University of Copenhagen)
+
+Steering Committee:
+
+Andreas Abel      (INRIA)
+Karl Crary        (Carnegie Mellon University)
+Amy Felty         (University of Ottawa)
+Marino Miculan    (University of Udine)
+Michael Norrish   (NICTA)
+Brigitte Pientka  (McGill University)
+Carsten Schürmann (IT University of Copenhagen)
+
+Paper Submission
+
+Submission of papers is electronic. Authors must submit the paper
+through the EasyChair server, at
+http://www.easychair.org/conferences/?conf=lfmtp10. Authors are
+required to submit a paper title and a short abstract before
+submitting the papers (see important dates above). Accepted papers
+will be presented at the workshop and included in the preliminary
+proceedings, which will be made available in electronic form.
+
+After the workshop, authors of accepted papers will be invited to
+submit revised versions for inclusion in final post-proceedings, which
+will be published in the Electronic Proceedings in Theoretical
+Computer Science (EPTCS) http://eptcs.org.
+
+Papers are to be submitted in PDF format, should not exceed 15 pages
+including references, and must be prepared in LATEX using the EPTCS
+macro package (http://style.eptcs.org). For further information and
+submission instructions, see the LFMTP 2010 web page.
+
+
+The organizers:
+
+Karl Crary                       Marino Miculan
+School of Computer Science       Dept. of Mathematics and Computer Science
+Carnegie Mellon University       University of Udine
+crary@cs.cmu.edu                 miculan@dimi.uniud.it

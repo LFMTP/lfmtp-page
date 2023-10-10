@@ -1,0 +1,5 @@
+As a follow-up to the POPLMark Challenge, we propose a new
+benchmark for machine-checked metatheory of programming languages: establishing strong normalization of a simply-typedlambda-
+calculus with a proof by Kripke-style logical relations. We believe
+that this case-study overcomes some of the limitations of the original challenge and highlights, among others, the need of native
+support for context reasoning and simultaneous substitutions.

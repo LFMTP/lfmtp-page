@@ -1,0 +1,17 @@
+Formalising the pi-calculus is an illuminating test of the
+expressiveness of logical frameworks and mechanised metatheory
+systems, because of the presence of name binding, labelled transitions
+with name extrusion, bisimulation, and structural congruence.
+Formalisations have been undertaken in a variety of systems, primarily
+focusing on well-studied (and challenging) properties such as the
+theory of process bisimulation. We present a formalisation in Agda
+that instead explores the theory of concurrent transitions,
+residuation, and causal equivalence of traces, which has not
+previously been formalised for the pi-calculus. Our formalisation
+employs de Bruijn indices and dependently-typed syntax, and aligns the
+proved transitions proposed by Boudol and Castellani in the
+context of CCS with the proof terms naturally present in Agda's
+representation of the labelled transition relation. Our main
+contributions are proofs of the "diamond lemma" for residuation of
+concurrent transitions and a formal definition of equivalence of
+traces up to permutation of transitions.

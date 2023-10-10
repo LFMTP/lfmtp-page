@@ -1,0 +1,30 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+
+<h1>Invited talks</h1>
+
+<a name="Pfenning"></a>
+<h3 class="title">Decomposing Modalities</h3>
+<p class="speaker">
+  <b><a href="http://www.cs.cmu.edu/~fp/">Frank Pfenning</a></b>
+  <span class="institution">Carnegie Mellon University</span>
+</p>
+<p class="abstract" src="inc/abstracts/pfenning.txt"></p>
+
+<a name="Nigam"></a>
+<h3 class="title">A Linear Logic Framework with Subexponentials</h3>
+<p class="speaker">
+  <b><a href="http://www.nigam.info/">Vivek Nigam</a></b>
+  <span class="institution">Federal University of Paraíba</span>
+</p>
+<p class="abstract" src="inc/abstracts/nigam.txt"></p>
+
+<a name="Lasson"></a>
+<h3 class="title">A Coq plugin for computing logical relations of parametricity</h3>
+<p class="speaker">
+  <b><a href="https://who.rocq.inria.fr/Marc.Lasson/">Marc Lasson</a></b>
+  <span class="institution">Inria</span>
+</p>
+<p class="abstract" src="inc/abstracts/lasson.txt"></p>

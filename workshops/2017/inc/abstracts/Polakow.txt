@@ -1,0 +1,7 @@
+The original presentation of uniform ordered linear logic does not
+permit direct implementation (in Olli) as a meta-circular
+interpreter. We explain the difficulty and present a new formulation of
+the logic, called uniform atomic ordered linear logic which
+does allow a direct transcription into a meta-circular interpreter. We
+prove the new system sound and complete with respect to the old; and
+we exhibit a meta-circular interpreter for Olli.

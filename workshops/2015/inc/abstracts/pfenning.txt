@@ -1,0 +1,10 @@
+It has long been recognized that necessity from modal logic and the
+exponential of linear logic arise in the same way, namely from
+categorical judgments.  There have also suggestions that necessity is
+not atomic, but in fact composed of more primitive parts.  In this
+talk we will report on our current understanding how necessity and
+possibility may be decomposed and recombined along several dimensions:
+structural properties (weakening and contraction), accessibility
+properties (reflexivity and transitivity), and polarity (positive and
+negative).  We consider some potential applications of this richer
+viewpoint.

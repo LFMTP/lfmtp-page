@@ -1,0 +1,186 @@
+* {
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;    
+}
+
+body {
+    background: #214181;
+/*    text-align: center; */
+}
+
+img {
+ border: 0;
+}
+
+/*
+a {
+    color: #0056B0;
+}
+*/
+
+#wrapper {
+  background: #ffffff;
+  margin: 8px auto;
+  text-align: left;
+  width: 780px;
+}
+
+/* HEADER */
+#header {
+  background: #112141;
+}
+
+#header h1 {
+  color: #ffffff;
+  font-size: 24pt;
+  padding-left: 10pt;
+  padding-top: 10pt;
+}
+
+#header h1 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#header h2 {
+  color: #ffffff;
+  font-size: 14pt;
+  padding-left: 15pt;
+  padding-top: 9pt;
+}
+
+#header h2 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+/* MENU */ 
+#menu {
+  background: #112141;
+  float: right;
+  width: 100%;
+}
+
+#menu ul {
+  list-style-type: none;
+  float: right;
+}    
+
+#menu ul li {
+  float: left;
+}
+
+#menu ul li a {
+  color: #ffffff;
+  display: block;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-right: 4px;
+  padding: 9px;
+  text-decoration: none;
+}
+
+#menu ul li a:hover {
+  background: #ffffff;
+  color: #112141;
+}
+
+#menu ul li a.current {
+  background: #ffffff;
+  color: #112141;
+}    
+    
+/* MAIN */
+#main {
+  margin: 50px 30px 30px 30px;
+}
+
+#main h1 {
+  font-size: 14pt;
+  color: #112141;
+  margin-bottom: 12pt;
+}
+
+#main h2 {
+  font-size: 12pt;
+  color: #112141;
+  margin-bottom: 12pt;
+  margin-left:4pt;
+}
+
+#main h3 {
+  font-size: 10pt;
+  color: #112141;
+  margin-bottom: 12pt;
+  margin-left:8pt;
+}
+
+#main p {
+  font-size: 10pt;
+  line-height: 16pt;
+  text-align: justify;
+  margin-bottom: 12pt;
+  margin-left:12pt;
+  margin-right:12pt;
+}
+
+#main p.centre {
+/*  font-size: 10pt;
+  line-height: 16pt; */
+  text-align: center;
+/*  margin-bottom: 12pt;
+  margin-left:12pt;
+  margin-right:12pt; */
+}
+
+#main table {
+  font-size: 10pt;
+  line-height: 16pt;
+  margin-bottom: 12pt;
+  margin-left:12pt;
+  margin-right:12pt;
+}
+
+#main table td {
+  font-size: 12pt;
+  line-height: 16pt;
+  padding: 3px;
+}
+
+#main table tr.gray * {
+  color: #bbbbbb;
+}
+
+#main table p {
+  font-size: 10pt;
+  line-height: 14pt;
+  text-align: justify;
+  margin: 10pt 10pt 10pt 10pt;
+}
+
+#main ul {
+  font-size: 10pt;
+  line-height: 16pt;
+  text-align: justify;
+  margin-bottom: 12pt;
+  margin-left:28pt;
+}
+
+/* FOOTER */
+#footer {
+  background: #112141;
+  color: #fff;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 5px 5px;
+  text-align: center;
+}
+    
+#footer a {
+  background: #112141;
+  color: #fff;
+  text-decoration: none;
+}
+

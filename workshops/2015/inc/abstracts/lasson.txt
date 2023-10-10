@@ -1,0 +1,24 @@
+The concept of parametricity was introduced by John Reynolds in his
+seminal paper on polymorphic lambda-calculus (also known as System F).
+It relates to the fact that well-typed programs are not allowed to
+inspect abstract types; it is not possible to define a program by case
+distinction over types, it must behave uniformly with respect to
+abstract types. Reynolds uses logical relations to formalize this
+notion. Thereafter, these logical relations were adapted and used more
+or less formally in order to justify many application by the
+functional programming community.
+
+<br style="margin-bottom:1ex;">
+
+In this talk, I will present a new plugin for the Coq proof assistant
+that computes logical relations as well as the proof witnesses that
+programs satisfy these logical relations. It is available on github
+http://github.com/mlasson/paramcoq. The purpose of this plugin is to
+allow to use parametric arguments in Coq proofs, the main direct
+application is the certification of parametric programs. Thanks to
+powerful expressiveness of the proof assistant, this plugin will allow
+future users to use parametric arguments to a larger scale. Although
+parametricity theory was originally developed for studying programs,
+the fact that we can use it in a proof assistant enables new uses in
+other contexts, such as the formalisation of mathematics and the
+meta-theory of proof assistants.

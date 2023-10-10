@@ -1,0 +1,19 @@
+This paper presents a case study of formalizing a normalization proof
+for Leivant's Predicative System F using the Equations
+package. Leivant's Predicative System F is a stratified version of
+System F, where type quantification is annotated with kinds
+representing universe levels. A weaker variant of this system was
+studied by Stump & Eades,
+employing the hereditary substitution method to show normalization. We
+improve on this result by showing normalization for Leivant's original
+system using hereditary substitutions and a novel multiset ordering on
+types. Our development is done in the Coq proof assistant using the
+Equations package, which provides an interface to define
+dependently-typed programs with well-founded recursion and full
+dependent pattern-matching. Equations allows us to define explicitly
+the hereditary substitution function, clarifying its algorithmic
+behavior in presence of term and type substitutions. From this definition,
+consistency can easily be derived. The algorithmic nature of our
+development is crucial to reflect languages with type quantification,
+enlarging the class of languages on which reflection methods can be
+used in the proof assistant.

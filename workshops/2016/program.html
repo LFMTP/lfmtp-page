@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Logical frameworks and Meta-languages: Theory and Practice (LFMTP'16)</title>
+  <link type="text/css" rel="stylesheet" href="lfmtp15.css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<!-- header -->
+<div id="header">
+<div id="title">
+<a href="http://lfmtp.org/">Logical Frameworks and Meta-Languages: Theory and Practice</a>
+</div>
+<div id="affiliated">
+Affiliated with <a href="http://fscd2016.dcc.fc.up.pt/">FSCD</a>
+</div>
+<div id="when">Thursday, 23 June 2016</div>
+<div id="where">Porto, Portugal</div>
+</div>
+<!-- header end -->
+
+<!-- menus -->
+<div id="menu">
+<ul> 
+<li><a href="index.html">Home</a></li>
+<li><a href="program.html">Program</a></li>
+<li><a href="http://lfmtp.org/index.shtml">About</a></li>
+</ul>
+</div> 
+<!-- menus end -->
+
+<div id="main">
+
+<script type="text/javascript"            src="jquery.min.js"></script>
+<script type="text/javascript"            src="program.js"></script>
+<link   type="text/css" rel="stylesheet" href="program.css" />
+
+<h1>Workshop Program</h1>
+
+<!-- <p style="text-align:center; font-size:105%;"> -->
+<!--   Institute of Computer Science -->
+<!--   <br>Freie Universität Berlin -->
+<!--   <br>Room T9.005 -->
+<!-- </p> -->
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">10:30-12:30</td>
+        <td class="title">Contributed Papers</td>
+        <td class="chair">Gilles Dowek</td>
+      </tr>
+    </table>
+  </div>
+
+  <table class="talks">
+  
+  <tr class="talk">
+    <td class="time">10:30</td>
+    <td class="presentation">
+      <div class="title">
+        Mechanizing Proofs about Mendler-style Recursion
+      </div>
+      <div class="authors">
+        <span class="person">Rohan Jacob-Rao</span>,
+        <span class="person">Andrew Cave</span>,
+        <span class="person">Brigitte Pientka</span> 
+      </div>
+      <div>
+        We consider the normalization proof for a simply-typed lambda
+        calculus with Mendler-style recursion using logical
+        relations. This language is powerful enough to encode total
+        recursive functions using recursive types. A key feature of our
+        proof is the semantic interpretation of recursive types, which
+        requires higher-kinded polymorphism in the reasoning
+        language. We have implemented the proof in Coq due to this
+        requirement. However, we believe this proof can serve as a
+        challenge problem for other proof environments, especially those
+        supporting binders, since our mechanization in Coq requires
+        proofs of several substitution properties.
+      </div>
+    </td>
+  </tr>
+
+  <tr class="talk">
+    <td class="time">11:00</td>
+    <td class="presentation">
+      <div class="title">
+        A Rewrite System for Proof Constructivization
+      </div>
+      <div class="authors">
+        <span class="person">Raphaël Cauderlier</span>
+      </div>
+      <div>
+          Proof constructivization is the problem of automatically extracting
+          constructive proofs out of classical proofs. It is required to
+          integrate classical theorem provers in intuitionistic proof
+          assistants. We use the ability of rewrite systems to represent
+          partial functions to implement heuristics for proof constructivization
+          in Dedukti, a logical framework based on rewriting in which proofs are
+          first-class objects which can be the subject of computation. We
+          benchmark these heuristics on the proofs outputted by the automated
+          theorem prover Zenon on the TPTP library of problems.
+      </div>
+    </td>
+  </tr>
+
+  <tr class="talk">
+    <td class="time">11:30</td>
+    <td class="presentation">
+      <div class="title">
+        The Logic of Hereditary Harrop Formulas as a Specification Logic for Hybrid
+      </div>
+      <div class="authors">
+        <span class="person">Chelsea Battell</span>,
+        <span class="person">Amy Felty </span>
+      </div>
+
+      <div>
+          Hybrid is a logical framework that supports the use of higher-order
+          abstract syntax (HOAS) in representing formal systems or “object
+          logics” (OLs). It is implemented in Coq and follows a two-level
+          approach, where a specification logic (SL) is implemented as an
+          inductive type and used to concisely and elegantly encode the inference
+          rules of the formal systems of interest. In this paper, we
+          develop a new higher-order specification logic for Hybrid. By increasing
+          the expressive power of the SL beyond what was considered
+          previously, we increase the flexibility of encoding OLs and
+          thus extend the class of formal systems for which we can reason
+          about efficiently. We focus on formalizing the meta-theory of the
+          SL. We develop an abstract way in which to present an important
+          class of meta-theorems. This class includes properties such as
+          weakening, contraction, exchange, and the admissibility of the cut
+          rule. The cut admissibility theorem establishes consistency and also
+          provides justification for substituting a formula for an assumption
+          in a context of assumptions. It can greatly simplify reasoning about
+          OLs in systems that provide HOAS. We present the abstraction and
+          show how it is used to prove all of these theorems.
+      </div>
+    </td>
+  </tr>
+
+
+  <tr class="talk">
+    <td class="time">12:00</td>
+    <td class="presentation">
+      <div class="title">
+	Implementing HOL in an Higher Order Logic Programming Language
+      </div>
+      <div class="authors">
+        <span class="person">Cvetan Dunchev</span>,
+        <span class="person">Claudio Sacerdoti Coen</span>,
+        <span class="person">Enrico Tassi</span>
+      </div>
+
+      <div>
+        <emph>
+          We present a proof-of-concept prototype of a (constructive variant of
+          an) HOL interactive theorem prover written in a Higher Order Logic
+          Programming (HOLP) language, namely an extension of LambdaProlog. The
+          prototype is meant to support the claim, that we reinforce, that HOLP is
+          the class of languages that provides the right abstraction level and
+          programming primitives to obtain concise implementations of theorem
+          provers. We identify and advocate for a programming technique, that we
+          call semi-shallow embedding, while at the same time identifying the
+          reasons why pure LambdaProlog is not sufficient to support that
+          technique, and it needs to be extended.
+        </emph>
+      </div>
+    </td>
+  </tr>
+
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">12:30-14:00</span>
+    <span class="title">Lunch break</span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">14:00-15:00</td>
+        <td class="title">Invited Talk</td>
+        <td class="chair">(chair: Gilles Dowek)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">14:00</td>
+    <td class="presentation">
+      <div class="title">
+        The Incredible Proof Machine 
+      </div>
+      <div class="authors">
+        <span class="person invited">Joachim Breitner</span>
+      </div>
+
+      <div>
+          Bringing the joy and excitement of interactive theorem provers to high
+          school students is a challenge, because having to learn the rules of
+          the syntax, and manually checking hand-written proofs is just not fun.
+          Thus I created the Incredible Proof Machine, which allows students to
+          conduct proofs by dragging blocks and wiring up them up to “proof
+          graphs”, all using just the mouse. The result is a surprisingly
+          addictive game-like experience that lures students (and non-students)
+          to prove statements of propositional and predicate logic; or any other
+          natural-deduction based calculus their instructor wants to teach.
+          In this talk, I will explain the motivation behind the Proof Machine
+          and its design decisions, demonstrate the user interface and its
+          various features, show how to define your own tasks and even logics and
+          outline the correspondence between these proof graphs and conventional
+          natural deduction derivation trees.
+        </emph>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div><!-- main -->
+
+<div id="footer">
+Questions? &nbsp;
+  <a href="mailto:iliano@cmu.edu,kaustuv.chaudhuri@inria.fr?subject=Question%20about%20LFMTP%2715">Email us</a>
+</div><!-- footer -->
+
+</div><!-- wrapper -->
+</body>
+</html>
+

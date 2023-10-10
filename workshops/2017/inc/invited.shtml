@@ -1,0 +1,23 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+
+<h1>Invited talks</h1>
+
+<ul>
+	<li><a href="https://www.cs.princeton.edu/~appel/">Andrew Appel</a>
+		<b>Verifiable C, a Higher-order Impredicative Concurrent Separation Logic in Coq</b>
+		<p><em>
+			What are the desiderata for a practical program logic for a loosely typed imperative systems programming language?  It must support pointer data structures with sharing and mutation: separation logic is useful.  It should facilitate the use of function pointers in such usage patterns as “objects” or “closures”: it should be higher-order.  It should support data abstraction, especially in connection with objects and closures; that is, quantification over representation predicates, where the use of abstract types in the representations of other abstract types makes it convenient to have impredicative quantification.  If the object language allows shared-memory concurrency, the logic must reason about how sharing is controlled by synchronization. 
+			<br/>
+			Each program is verified in its own application domain, so the program logic should have strong facilities and libraries for reasoning in the mathematics of many application domains: the program logic should be, somehow, a general-purpose logic and proof assistant such as Coq.  When the object language is a legacy language with many traps and pitfalls, a machine-checked soundness proof is essential.  Finally, a practical a program logic needs efficient proof automation to assist the user in applying the logic to the program.  In this talk I will show how these desiderata led to the design, implementation, and practical use of the Verifiable C program logic for the C language.
+		</em></p>
+	</li>
+	<li><a href="http://homepages.inf.ed.ac.uk/jmckinna/">James McKinna</a>
+		<b>Names, Places, and Things; fragments of a partial intellectual biography of Randy Pollack</b>
+    	<p><em>
+    		I owe Randy Pollack many debts of honour. I hope in this talk to sketch some of the highlights of our collaboration, including some recent work with Guillaume Allais and others, and unpublished work solving a problem raised by Randy in his work on maps with Masahiko Sato and others. 
+    	</em></p>
+	</li>
+</ul>

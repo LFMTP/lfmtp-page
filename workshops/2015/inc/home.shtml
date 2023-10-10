@@ -1,0 +1,114 @@
+<p>
+Logical frameworks and meta-languages form a common substrate for
+representing, implementing, and reasoning about a wide variety of deductive
+systems of interest in logic and computer science. Their design and
+implementation and their use in reasoning tasks ranging from the correctness
+of software to the properties of formal computational systems have been the
+focus of considerable research over the last two decades. This workshop will
+bring together designers, implementors, and practitioners to discuss various
+aspects impinging on the structure and utility of logical frameworks,
+including the treatment of variable binding, inductive and co-inductive
+reasoning techniques and the expressiveness and lucidity of the reasoning
+process.
+</p>
+<p>
+LFMTP 2015 will provide researchers a forum to present state-of-the-art
+techniques and discuss progress in areas such as the following:
+<ul>
+<li>Encoding and reasoning about the meta-theory of programming languages and
+    related formally specified systems.
+</li>
+<li>Theoretical and practical issues concerning the treatment of variable
+    binding, especially the representation of, and reasoning about, datatypes
+    defined from binding signatures.
+</li>
+<li>Logical treatments of inductive and co-inductive definitions and
+    associated reasoning techniques.
+</li>
+<li>New theory contributions: canonical and substructural frameworks,
+    contextual frameworks, proof-theoretic foundations supporting binders,
+    functional programming over logical frameworks, homotopy
+    type theory.
+</li>
+<li>Applications of logical frameworks, e.g., in proof-carrying architectures
+    such as proof-carrying authorization.
+</li>
+<li>Techniques for programming with binders in functional programming
+    languages such as Haskell, OCaml, or Agda and logic programming languages
+    such as lambda Prolog or Alpha-Prolog.
+</li>
+</ul>
+</p>
+
+<h2>Invited Speakers</h2>
+<ul>
+<li><a href="http://www.cs.cmu.edu/~fp/">Frank Pfenning</a> (Carnegie Mellon University)</li>
+<li><a href="http://www.nigam.info/">Vivek Nigam</a> (Federal University of Paraíba)</li> 
+<li><a href="https://who.rocq.inria.fr/Marc.Lasson/">Marc Lasson</a> (Inria)</li>
+</ul>
+<p>
+For information about title and abstract, see <a href="invited.shtml">Invited
+Talks</a>.
+</p>
+
+<h2>Program</h2>
+<p>
+See <a href="program.shtml">Program</a> for the accepted papers and a preliminary schedule.
+</p>  
+  
+<h2>Registration</h2>
+<p>
+Registration for LFMTP is open and early registration ends on <em>Sunday 21 June 2015</em>. Please see
+   <a href="http://conference.mi.fu-berlin.de/cade-25/Reg">the CADE-25 registration page</a> for details.
+</p>
+  
+<h2>Important Dates</h2> 
+
+
+<ul>
+<li><b>Friday,   May    1st</b>: Abstract submission deadline</li>
+<li><b>Friday,   May    8th</b>: Submission deadline</li>
+<!--   Friday,   June   5th    : Reviews due -->
+<li><b>Friday,   June  12th</b>: Notification to authors</li> 
+<li><b>Friday,   July   3rd</b>: Final version due</li> 
+<li><b>Saturday, August  1st</b>: Workshop date</li>
+</ul>
+
+
+<h2>Submission</h2>
+<p>
+In addition to regular papers, we also solicit "work in progress" reports, in a broad sense.  Those do not need to report fully polished research results, but should be interesting for the community at large.
+</p>
+<p>
+Submitted papers should be in PDF, formatted using the <a href="http://style.eptcs.org/">EPTCS style guidelines</a>. The length is restricted to 15 pages for regular papers and 8 pages for "Work in Progress" papers.
+</p>
+<p>  
+Submission is via EasyChair.
+ <a href="https://easychair.org/conferences/?conf=lfmtp2015">Submit to LFMTP15 now!</a> 
+</p>
+
+
+<h2>Proceedings</h2>
+<p>
+Accepted regular papers will be included in the proceedings, which will be
+published in the Electronic Proceedings in Theoretical Computer Science series
+(<a href="http://about.eptcs.org/">EPTCS</a>).
+</p>
+<p>
+The proceedings of LFMTP 2015 appeared as <a href="http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP15">volume 185 of EPTCS</a>.
+</p>
+
+
+<h2>Program Committee</h2>
+<ul>
+<li><a href="http://www.cse.chalmers.se/~abela/">Andreas Abel</a> (Chalmers and Gothenburg University)</li>
+<li><a href="http://www.lsv.ens-cachan.fr/~baelde/">David Baelde</a> (LSV, ENS Cachan)</li>
+<li><a href="http://www.qatar.cmu.edu/iliano/">Iliano Cervesato</a> (Carnegie Mellon University, co-chair)</li>
+<li><a href="http://chaudhuri.info">Kaustuv Chaudhuri</a> (Inria &amp; LIX/&Eacute;cole polytechnique, co-chair)</li>
+<li><a href="http://specfun.inria.fr/mahboubi/">Assia Mahboubi</a> (Inria)</li>
+<li><a href="http://www.iro.umontreal.ca/~monnier/">Stefan Monnier</a> (University of Montreal)</li>
+<li><a href="http://www.cs.umn.edu/~gopalan">Gopalan Nadathur</a> (University of Minnesota)</li>
+<li><a href="https://sites.google.com/site/gisellemnr">Giselle Reis</a> (Inria)</li>
+<li><a href="http://www.cs.unibo.it/~sacerdot/">Claudio Sacerdoti Coen</a> (University of Bologna)</li>
+<li><a href="http://www.itu.dk/people/carsten/">Carsten Sch&uuml;rmann</a> (ITU Copenhagen &amp; Demtech)</li>
+</ul>

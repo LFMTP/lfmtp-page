@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Logical Frameworks and Meta-languages: Theory and Practice (LFMTP'17)</title>
+  <link type="text/css" rel="stylesheet" href="inc/style/lfmtp15.css" />
+</head>
+
+<body>
+<div id="wrapper">
+
+<!-- header -->
+<div id="header">
+<div id="title">
+<a href="http://lfmtp.org/">Logical Frameworks and Meta-Languages: Theory and Practice</a>
+</div>
+<div id="affiliated">
+Affiliated with the <a href="http://www.cs.ox.ac.uk/conferences/fscd2017/">Conference on
+Formal Structures for Computation and Deduction (FSCD 2017)</a>, colocated with ICFP 2017
+</div>
+<div id="when">September 8, 2017</div>
+<div id="where">Oxford</div>
+</div>
+<!-- header end -->
+
+<!-- menus -->
+<div id="menu">
+<ul> 
+<li><a href="lfmtp17-cfp.txt">Call for Papers</a></li>
+<li><a href="invited.html">Invited talks</a></li>
+<li><a href="program.html">Program</a></li>
+</ul>
+</div> 
+<!-- menus end -->
+
+<div id="main">

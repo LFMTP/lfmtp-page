@@ -1,0 +1,17 @@
+Property-based testing is a technique for validating code against
+an executable specification by automatically generating test-data.
+From its original use in programming languages, this technique
+has now spread to most major proof assistants to complement theorem proving with a preliminary phase of conjecture testing. We
+present a proof theoretical reconstruction of this style of testing
+for relational specifications (such as those used in the semantics
+of programming languages) and employ the Foundational Proof
+Certificate framework to aid in describing test generators. We do
+this by presenting certain kinds of "proof outlines" that can be used
+to describe the shape and size of the generators for the conditional
+part of a proposed property. Then the testing phase is reduced to
+standard logic programming search. After illustrating our techniques on simple, first-order (algebraic) data structures, we lift it
+to data structures containing bindings using lambda-tree syntax. The
+lambdaProlog programming language is capable of performing both the
+generation and checking of tests. We validate this approach by
+tackling benchmarks in the metatheory of programming languages
+coming from related tools such as PLT-Redex.

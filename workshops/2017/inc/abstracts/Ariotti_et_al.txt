@@ -1,0 +1,10 @@
+SASyLF is an interactive proof assistant whose goal is to teach:
+about type systems, language meta-theory, and writing proofs in
+general. This software tool stores user-specified languages and
+logics in the dependently-typed LF, and its internal proof structure
+closely resembles M^+_2. This paper describes a new usability feature
+of SASyLF, "where" clauses, which make explicit previously hidden
+substitutions that arise from case analyses within a proof. The
+requirements for "where" clauses are discussed, including a formal
+definition of correctness. The feature's implementation in SASyLF
+is outlined, and future extensions are discussed.
