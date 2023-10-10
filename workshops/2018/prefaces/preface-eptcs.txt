@@ -1,0 +1,59 @@
+This volume contains a selection of papers presented at LFMTP 2018,
+the 13th International Workshop on Logical Frameworks and
+Meta-Languages: Theory and Practice (LFMTP), held on July 7, 2018, in
+Oxford, UK. The workshop was affiliated with the 3rd International
+Conference on Formal Structures for Computation and Deduction (FSCD)
+within the 7th Federated Logic Conference (FLoC).
+
+Logical frameworks and meta-languages form a common substrate for
+representing, implementing and reasoning about a wide variety of
+deductive systems of interest in logic and computer science. Their
+design, implementation and their use in reasoning tasks, ranging from
+the correctness of software to the properties of formal systems, have
+been the focus of considerable research over the last two
+decades. This workshop brought together designers, implementors and
+practitioners to discuss various aspects impinging on the structure
+and utility of logical frameworks, including the treatment of variable
+binding, inductive and co-inductive reasoning techniques and the
+expressiveness and lucidity of the reasoning process.
+
+We received 13 submissions in total, which were reviewed by at least 3
+program committee members or external reviewers. Out of those, 4 were
+selected for presentation and 4 were selected for presentation and
+publication. These proceedings include the latter 4 plus one invited
+submission.
+
+In addition to the submission presentations, the program included 3
+invited talks by Delia Kesner (IRIF, CNRS and Université Paris
+Diderot, France), Kuen-Bang Hou (Favonia) (Institute for Advanced
+Study, Princeton, USA), and Grigore Rosu (University of Illinois at
+Urbana-Champaign, USA).
+
+Many people have contributed to the success of LFMTP'18. We would like
+to thank the organization of FLoC for providing the infrastructure and
+coordination with other events. We are grateful for the great program
+committee who submitted all reviews on time and participated actively
+on the decisions.  The authors and invited speakers are the ones
+responsible for a very interesting program, and the attendees for
+fruitful and stimulating discussions.
+
+Frédéric Blanqui & Giselle Reis
+May 31, 2018
+
+Program Committee of LFMTP 2018
+
+    María Alpuente (Universitat Politècnica de València, Spain)
+    Andrej Bauer (University of Ljubljana, Slovenia)
+    Frédéric Blanqui (Inria, France), co-chair
+    Ana Bove (Chalmers University of Technology, Sweden)
+    Stéphane Graham-Lengrand (CNRS, France)
+    Makoto Hamana (Gunma University, Japan)
+    Chantal Keller (Université Paris-Sud, France)
+    Carlos Olarte (Universidade Federal do Rio Grande do Norte, Brazil)
+    Giselle Reis (CMU, Qatar), co-chair
+    Aaron Stump (University of Iowa, USA)
+    Yuting Wang (Yale University, USA)
+
+Additional Reviewers
+
+    Arthur Charguéraud, Philipp Haselwarter, Matija Pretnar, and Nick Smallbone

@@ -1,0 +1,24 @@
+Call-by-need is a lazy evaluation strategy which overwrites an
+argument with its value the first time it is evaluated, thus avoiding
+a costly re-evaluation mechanism. It is used in functional programming
+languages like Haskell and Miranda.</br>
+
+In this talk we present a fresh view of call-by-need in three
+different aspects:</br>
+
+<ul>
+  <li>We revisit the completeness theorem relating (weak)
+call-by-need with standard (weak) call-by-name.</li>
+
+  <li>We relate the syntactical notion of (weak) call-by-need with
+the corresponding semantical notion of (weak) neededness, based on the
+theory of residuals.</li>
+
+  <li>We extend the weak call-by-need strategy, which only computes
+weak head normal forms of closed terms, to a strong call-by-need
+strategy which computes strong normal forms of open terms, a notion of
+reduction which is used in proof assistants like Coq and Agda.</li>
+</ul>
+
+We conclude our talk by proposing some future research directions.
+

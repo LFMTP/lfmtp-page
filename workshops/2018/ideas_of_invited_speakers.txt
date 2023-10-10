@@ -1,0 +1,4 @@
+- Alberto Momigliano or James Cheney (AlphaCheck)
+- José Meseguer (Maude)
+- Aaron Stump or Harley Eades III (LFSC)
+- Vincent Rahli or Robert Harper (NuPRL)

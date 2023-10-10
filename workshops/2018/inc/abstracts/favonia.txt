@@ -1,0 +1,29 @@
+(Joint work with Carlo Angiuli, Evan Cavallo, Robert Harper and Jonathan
+Sterling)</br></br>
+
+Recent research revealed the deep connection between type theory and homotopy
+theory, which inspired a series of new type theories. The characteristic new
+features are univalence and higher inductive types, which have led to a fruitful
+development of synthetic homotopy theory. Unfortunately, those new features were
+originally introduced as axioms and disrupted the computational content of type
+theory, which affects their practicality in mechanizing proofs.</br></br>
+
+To date, the most promising approach to enjoy new features inspired by homotopy
+theory while retaining computational content is through cubical structure. Cohen
+et al. constructed a type theory based on De Morgan cubes with both univalence
+and higher inductive types. Influenced by their work, we also built a
+type-theoretic semantics with all the features, but instead based on Cartesian
+cubes. In addition to using a different cubical structure, our semantics is
+built from computational content directly, following a computation-first
+methodology which itself is interesting.</br></br>
+
+<a href="http://www.redprl.org">RedPRL</a> is our first proof assistant based on
+the new semantics, inheriting the PRL style pioneered by the Nuprl proof
+assistant, which is also based on the computation-first methodology (but without
+cubical structure). We are also developing different proof assistants with
+distinct proof theories, in hope to create the best tools for mechanizing
+homotopy theory and other mathematics.</br></br>
+
+In this talk, I will describe how the computation-first methodology works,
+compare two cubical type theories and discuss RedPRL.</br>
+

@@ -35,3 +35,10 @@ venues for presenting results on type theories and logical frameworks.
     organized by Dale Miller (INRIA and LIX, France) and Ivan Scagnetto (University of Udine).
     [Proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2019).
 
+* [LFMTP'18](./2018), Oxford, UK, affiliated with 
+    [FloC'18](http://www.floc2018.org),
+    organized by Fr&eacute;d&eacute;ric Blanqui (INRIA, France) and
+    Giselle Reis (Carnegie Mellon University, Qatar).
+    [Proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2018").
+
+

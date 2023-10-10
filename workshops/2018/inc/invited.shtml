@@ -1,0 +1,42 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+
+<h1>Invited talks</h1>
+
+<!---------------------------------------------------------------------------->
+<a name="Kesner"></a>
+
+<h3 class="title">A fresh view of call-by-need</h3>
+
+<p class="speaker">
+  <b><a href="https://www.irif.fr/~kesner/">Delia Kesner</a></b>
+  <span class="institution">IRIF, CNRS and Université Paris Diderot, France</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/kesner.txt"></p>
+
+<!---------------------------------------------------------------------------->
+<a name="Favonia"></a>
+
+<h3 class="title">Cubical Computational Type Theory and RedPRL</h3>
+
+<p class="speaker">
+  <b><a href=" http://favonia.org">Kuen-Bang Hou, alias Favonia</a></b>
+  <span class="institution">Institute for Advanced Study, Princeton, USA</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/favonia.txt"></p>
+
+<!---------------------------------------------------------------------------->
+<a name="Rosu"></a>
+
+<h3 class="title">Why and How Does K work?  The Logical Infrastructure Behind It</h3>
+
+<p class="speaker">
+  <b><a href="http://fsl.cs.illinois.edu/index.php/Grigore_Rosu">Grigore Rosu</a></b>
+  <span class="institution">University of Illinois at Urbana-Champaign, USA</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/rosu.txt"></p>

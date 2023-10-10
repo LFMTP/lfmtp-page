@@ -1,0 +1,61 @@
+\documentclass[submission,copyright,creativecommons]{eptcs}
+\providecommand{\event}{LFMTP 2018} % Name of the event you are submitting to
+\usepackage{breakurl}             % Not needed if you use pdflatex only.
+\usepackage{underscore}           % Only needed if you use pdflatex.
+\usepackage[dvipsnames]{xcolor}
+\usepackage{xparse}
+
+\title{Cubical Computational Type Theory and RedPRL\\
+  {\large (invited talk abstract)}
+}
+\author{\href{http://www.favonia.org/}{Kuen-Bang Hou (Favonia)}
+  \institute{Institute for Advanced Study, Princeton}
+  \email{favonia@gmail.com}
+}
+\def\titlerunning{Cubical Computational Type Theory and RedPRL}
+\def\authorrunning{Kuen-Bang Hou (Favonia)}
+
+\NewDocumentCommand{\FormatKwd}{m}{\textbf{\textsf{#1}}}
+\NewDocumentCommand{\RedPRL}{}{\texorpdfstring{\FormatKwd{{\color{red}Red}PRL}}{RedPRL}}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+  \begin{center}
+  \emph{Joint work with Carlo Angiuli, Evan Cavallo, Robert Harper and
+  Jonathan Sterling.}
+  \end{center}
+  \medskip
+
+  Recent research revealed the deep connection between type theory and
+  homotopy theory, which inspired a series of new type theories. The
+  characteristic new features are univalence and higher inductive
+  types, which have led to a fruitful development of synthetic
+  homotopy theory. Unfortunately, those new features were originally
+  introduced as axioms and disrupted the computational content of type
+  theory, which affects their practicality in mechanizing proofs.
+
+  To date, the most promising approach to enjoy new features inspired
+  by homotopy theory while retaining computational content is through
+  cubical structure. Cohen et al. constructed a type theory based on
+  De Morgan cubes with both univalence and higher inductive
+  types. Influenced by their work, we also built a type-theoretic
+  semantics with all the features, but instead based on Cartesian
+  cubes. In addition to using a different cubical structure, our
+  semantics is built from computational content directly, following a
+  computation-first methodology which itself is interesting.
+
+  \href{http://www.redprl.org/}{\RedPRL{}} is our first proof assistant
+  based on the new semantics, inheriting the PRL style pioneered by
+  the Nuprl proof assistant, which is also based on the
+  computation-first methodology (but without cubical structure). We
+  are also developing different proof assistants with distinct proof
+  theories, in hope to create the best tools for mechanizing homotopy
+  theory and other mathematics.
+
+  In this talk, I will describe how the computation-first methodology
+  works, compare two cubical type theories and discuss \RedPRL{}.
+\end{abstract}
+
+\end{document}

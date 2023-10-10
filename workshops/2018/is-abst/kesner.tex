@@ -1,0 +1,39 @@
+\documentclass[submission,copyright,creativecommons]{eptcs}
+\providecommand{\event}{LFMTP 2018} % Name of the event you are submitting to
+\usepackage{breakurl}             % Not needed if you use pdflatex only.
+\usepackage{underscore}           % Only needed if you use pdflatex.
+
+\title{A Fresh View of Call-by-Need\\
+  {\large (invited talk abstract)}
+}
+\author{\href{https://www.irif.fr/~kesner/}{Delia Kesner}
+  \institute{IRIF, CNRS and Université Paris Diderot}
+  \institute{School of Computer Science and Engineering}
+  \email{kesner@irif.fr}
+}
+\def\titlerunning{A Fresh View of Call-by-Need}
+\def\authorrunning{D. Kesner}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+  Call-by-need is a lazy evaluation strategy which overwrites an
+  argument with its value the first time it is evaluated, thus
+  avoiding a costly re-evaluation mechanism. It is used in functional
+  programming languages like Haskell and Miranda. In this talk we
+  present a fresh view of call-by-need in three different aspects:
+
+  We revisit the completeness theorem relating (weak) call-by-need
+  with standard (weak) call-by-name. We relate the syntactical notion
+  of (weak) call-by-need with the corresponding semantical notion of
+  (weak) neededness, based on the theory of residuals. We extend the
+  weak call-by-need strategy, which only computes weak head normal
+  forms of closed terms, to a strong call-by-need strategy which
+  computes strong normal forms of open terms, a notion of reduction
+  which is used in proof assistants like Coq and Agda.
+
+  We conclude our talk by proposing some future research directions.
+\end{abstract}
+
+\end{document}
