@@ -15,4 +15,9 @@ venues for presenting results on type theories and logical frameworks.
    [FSCD'23](https://easyconferences.eu/fscd2023/), organized by Alberto
    Ciaffaglione (Università degli Studi di Udine) and Carlos Olarte (LIPN,
    Université Sorbonne Paris Nord)
+
+ * [LFMTP'22](./2022){:target="_blank"}, Haifa, Israel, affiliated with [FLoC
+   2022](https://floc2022.org/), organized by David Baelde (ENS Cachan, France)
+   and Vivek Nigam (Federal University of Paraíba, Brazil)
+
    

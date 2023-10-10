@@ -1,0 +1,23 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+<h1>Invited talks </h1>
+<p>
+LFMTP 2022 will feature one general invited speaker:
+</p>
+<ul>
+  <li><a href="https://www.site.uottawa.ca/~afelty/">Amy Felty</a>
+    (University of Ottawa, Canada)</li>
+</ul>
+<p>
+and two more invited speakers
+for the special session in honor of Frank Pfenning:
+</p>
+<ul>
+  <li><a href="https://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a> (Mc Gill University, Canada)</li>
+  <li><a href="https://www-users.cse.umn.edu/~ngopalan/">Gopalan Nadathur</a> (University of Minnesota, USA)</li>
+</ul>
+<p>See our <a 
+         href="https://easychair.org/smart-program/FLoC2022/LFMTP-index.html">program</a> 
+for details.</p>

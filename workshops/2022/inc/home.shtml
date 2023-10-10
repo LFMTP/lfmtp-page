@@ -1,0 +1,140 @@
+<p>Last update: 2022-07-22</p>
+
+<h2>Practical information</h2>
+
+<ul>
+  <li>Our complete program is available <a 
+      href="https://easychair.org/smart-program/FLoC2022/LFMTP-index.html">here</a>.</li>
+  <li>LFMTP and the special session in honor of Frank Pfenning
+    will take place in the <a href="https://www.floc2022.org/venues">Taub 
+      building, room 3</a>.</li>
+  <li>Participants who cannot come to Haifa are welcome
+    to <a 
+      href=https://cnrs.zoom.us/j/93160697753?pwd=aFdIdHk1SFBiZ2JDU3J3dnBBVCtVQT09">our 
+    Zoom meeting room</a>
+    re-opening on 13:45 AM (<b>Haifa time</b>).</li>
+  <li>We encourage all participants of LFMTP and/or the special session
+    in honor of Frank Pfenning to participate to the workshop dinner
+    at Technion (book on <a 
+                              href="https://regmaster.com/2022conf/FLOC22/register.php">FLOC's 
+                              registration website</a>).</li>
+</ul>
+
+<h2>About LFMTP</h2>
+<p>
+Logical frameworks and meta-languages form a common substrate for
+representing, implementing and reasoning about a wide variety of
+deductive systems of interest in logic and computer science. Their
+design, implementation and their use in reasoning tasks, ranging from
+the correctness of software to the properties of formal
+systems, have been the focus of considerable research over the last two
+decades. This workshop will bring together designers, implementors and
+practitioners to discuss various aspects impinging on the structure and
+utility of logical frameworks, including the treatment of variable
+binding, inductive and co-inductive reasoning techniques and the
+expressiveness and lucidity of the reasoning process.
+</p>
+<p>
+LFMTP 22 will provide researchers a forum to present state-of-the-art
+techniques and discuss progress in areas such as the following:
+<ul>
+<li> Encoding and reasoning about the meta-theory of programming languages,
+  logical systems and related formally specified systems.
+</li>
+<li> Theoretical and practical issues concerning the treatment of variable
+  binding, especially the representation of, and reasoning about,
+  datatypes defined from binding signatures.
+</li>
+<li> Logical treatments of inductive and co-inductive definitions and
+  associated reasoning techniques, including inductive types of higher
+  dimension in homotopy type theory.
+</li>
+<li> Graphical languages for building proofs, applications in geometry,
+  equational reasoning and category theory.
+</li>
+<li> New theory contributions: canonical and substructural frameworks,
+  contextual frameworks, proof-theoretic foundations supporting
+  binders, functional programming over logical frameworks,
+  homotopy and cubical type theory.
+</li>
+<li> Applications of logical frameworks: proof-carrying architectures, proof
+  exchange and transformation, program refactoring, etc.
+</li>
+<li> Techniques for programming with binders in functional programming
+  languages such as Haskell, OCaml or Agda, and logic programming
+  languages such as lambda Prolog or Alpha-Prolog.
+</li>
+</ul>
+</p>
+
+<h2>Special Session for Frank Pfenning (joint event with FSCD)</h2>
+
+<p>
+A special session celebrating Frank Pfenning's contributions
+in the occasion of his 60th Birthday (belated) will be taking place
+during the workshop, jointly organized by LFMTP and FSCD.
+We therefore encourage and invite contributions that build or reflect on
+Frank's broad range of contributions.
+</p>
+
+
+<h2>Venue</h2>
+<p>
+The workshop will be co-located with FSCD 2022, part of FLoC 2022, which will be in Haifa, Israel.
+</p>
+
+<h2>Invited Speakers</h2>
+<ul>
+  <li><a href="https://www.site.uottawa.ca/~afelty/">Amy Felty</a>
+    (U. Ottawa, Canada)</li>
+  <li><a href="https://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a>
+    (Mc Gill, Canada)</li>
+  <li><a href="https://www-users.cse.umn.edu/~ngopalan/">Gopalan Nadathur</a>
+    (U. Minnesota, USA)</li>
+</ul>
+
+<h2>Important Dates</h2> 
+
+<ul>
+<li><b>May 3</b>: Abstract submission deadline</li>
+<li><b>May 17</b>: Submission deadline (extended)</li>
+<li><b>June 15</b>: Notification to authors</li>
+<li><b>July 13</b>: Final version due</li> 
+<li><b>August 1</b>: Workshop</li>
+</ul>
+
+
+<h2>Submission</h2>
+
+<p>
+In addition to regular papers, we welcome/encourage the submission of 
+"work in progress" reports, in a broad sense. Those do not need to report 
+fully polished research results, but should be of interest for the community 
+at large. 
+</p>
+<p> 
+Submitted papers should be in PDF, formatted using the EPTCS style
+guidelines. The length is restricted to 15 pages for regular papers and
+8 pages for "work in progress" papers.  
+</p>
+<p>
+Submission is via
+<a href="https://easychair.org/conferences/?conf=lfmtp22">EasyChair</a>.
+</p>
+
+<h2>Program Committee</h2>
+
+<ul>
+<li> Andreas Abel (Gothenburg University)</li>
+<li> David Baelde, Co-Chair (ENS Rennes, IRISA)</li>
+<li> Stephanie Balzer (CMU)</li>
+<li> Kaustuv Chaudhuri (Inria Saclay Ile-de-France)</li>
+<li> Kenji Maillard (Inria Rennes Bretagne Atlantique)</li>
+<li> Sonia Marin (University of Birmingham)</li>
+<li> Vivek Nigam, Co-Chair (Huawei ERC &amp; UFPB)</li>
+<li> Giselle Reis (CMU Qatar)</li>
+<li> Gabriel Scherer (Inria Saclay Ile-de-France)</li>
+<li> Carsten Schuermann (IT University of Copenhagen)</li>
+<li> Bernardo Toninho (Universidade Nova de Lisboa and NOVA-LINCS)</li>
+</ul>
+
