@@ -1,0 +1,1 @@
+We discuss the proof theory behind searching for counterexamples to coinductive specifications.

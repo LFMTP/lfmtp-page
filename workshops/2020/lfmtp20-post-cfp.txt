@@ -1,0 +1,95 @@
+CALL FOR PAPERS
+
+Logical Frameworks and Meta-Languages: Theory and Practice  (Post-Proceedings)
+LFMTP 2020 https://lfmtp.org/workshops/2020/
+
+Abstract submission deadline:  2 October 2020 
+Paper submission deadline:     9 October 2020
+
+
+
+ABOUT LFMTP
+
+Logical frameworks and meta-languages form a common substrate for representing,
+implementing and reasoning about a wide variety of deductive systems of interest
+in logic and computer science. Their design, implementation and their use in
+reasoning tasks, ranging from the correctness of software to the properties of
+formal systems, have been the focus of considerable research over the last two
+decades. This workshop will bring together designers, implementors and
+practitioners to discuss various aspects impinging on the structure and utility
+of logical frameworks, including the treatment of variable binding, inductive
+and co-inductive reasoning techniques and the expressiveness and lucidity of the
+reasoning process.
+
+The LFMTP 2020 workshop adopts a post-proceedings publication model. The
+workshop itself took place on 29-30 June 2020 online, jointly with IJCAR and
+FSCD. Now that the workshop has concluded, we solicit submissions of full papers
+for the post-proceedings of LFMTP 2020, which will go through the normal
+peer-review process. Submission is open to all; attendance at the workshop is
+not prerequisite. 
+
+Submissions related to the following topics are welcome: * Encoding and
+reasoning about the meta-theory of programming languages, process calculi and
+related formally specified systems.
+
+* Formalisation of model-theoretic and proof-theoretic semantics of logics.
+
+* Theoretical and practical issues concerning the treatment of variable binding,
+especially the representation of, and reasoning about, datatypes defined from
+binding signatures.
+
+* Logical treatments of inductive and co-inductive definitions and associated
+reasoning techniques, including inductive types of higher dimension in homotopy
+type theory.
+
+* Graphical languages for building proofs and their applications in geometry,
+equational reasoning and category theory.
+
+* New theory contributions: canonical and substructural frameworks, contextual
+frameworks, proof-theoretic foundations supporting binders, functional
+programming over logical frameworks, homotopy and cubical type theory.
+
+* Applications of logical frameworks: proof-carrying architectures, proof
+exchange and transformation, program refactoring, etc.
+
+* Techniques for programming with binders in functional programming languages
+such as Haskell, OCaml or Agda, and logic programming languages such as lambda
+Prolog or Alpha-Prolog.
+
+* Design and implementation of systems and tools related to meta-languages and
+logical frameworks
+
+
+IMPORTANT DATES
+
+All deadlines are established as the end of day (23:59) AoE.
+
+* Abstract submission deadline:  2 October 2020 
+* Paper submission deadline:     9 October 2020 
+* Notification to authors:      20 November 2020 
+* Final version due:             4 December 2020 
+
+
+SUBMISSION INFORMATION
+
+Submitted papers should be in PDF, formatted using the EPTCS LaTeX style. The
+length is restricted to 15 pages.
+
+Submission is via EasyChair: https://easychair.org/my/conference?conf=lfmtp2020 
+
+All submissions will be peer-reviewed and accepted papers will be published in
+the Electronic Proceedings in Theoretical Computer Science (EPTCS) series. 
+
+
+PROGRAM COMMITTEE
+
+David Baelde, LSV, ENS Paris-Saclay & Inria Paris 
+Frédéric Blanqui, INRIA
+Alberto Ciaffaglione, University of Udine 
+Dennis Müller, Friedrich-Alexander-University Erlangen-Nürnberg 
+Michael Norrish, Data61 
+Carlos Olarte, Universidade Federal do Rio Grande do Norde 
+Claudio Sacerdoti Coen, University of Bologna (PC Co-Chair) 
+Ulrich Schöpp, fortiss GmbH 
+Alwen Tiu, Australian National University (PC Co-Chair) 
+Tjark Weber, Uppsala University

@@ -1,0 +1,2 @@
+In earlier work, we presented a notion of model-theoretic conservativity for higher-order logic (HOL) with ad-hoc overloading for eager ground semantics. Here, we adapt this earlier work to lazy ground semantics and different dependency tracking. We also mechanise our results in the HOL4 theorem prover.
+

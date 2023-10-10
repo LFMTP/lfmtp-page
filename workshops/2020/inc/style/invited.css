@@ -1,0 +1,17 @@
+h3.title {
+  padding-top: 0.5ex;
+  font-style: italic;
+}
+.speaker {
+  margin-top: -1ex;
+  margin-bottom: 1ex !important;
+}
+.institution {
+  margin-left: 0.5em;
+}
+.institution:before {
+  content: "("
+}
+.institution:after {
+  content: ")"
+}

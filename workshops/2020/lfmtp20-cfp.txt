@@ -1,0 +1,91 @@
+CALL FOR PAPERS
+
+Logical Frameworks and Meta-Languages: Theory and Practice 
+LFMTP 2020
+
+Paris, France
+29 June 2020
+
+Affiliated with FSCD 2020 and IJCAR 2020
+
+https://lfmtp.org/workshops/2020/
+
+Abstract submission deadline: 5 April 2020
+Paper submission deadline:   11 April 2020
+
+
+SPECIAL SESSION IN HONOUR OF Frank Pfenning
+
+To celebrate the 60th birthday of Frank Pfenning and his great many contributions to the topics of LFMTP, one session will be devoted to talks by collaborators and friends of Frank.
+
+
+ABOUT LFMTP
+
+Logical frameworks and meta-languages form a common substrate for representing, implementing and reasoning about a wide variety of deductive systems of interest in logic and computer science. Their design, implementation and their use in reasoning tasks, ranging from the correctness of software to the properties of formal systems, have been the focus of considerable research over the last two decades. This workshop will bring together designers, implementors and practitioners to discuss various aspects impinging on the structure and utility of logical frameworks, including the treatment of variable binding, inductive and co-inductive reasoning techniques and the expressiveness and lucidity of the reasoning process.
+
+LFMTP 2020 will provide researchers a forum to present state-of-the-art techniques and discuss progress in areas such as the following:
+
+* Encoding and reasoning about the meta-theory of programming languages, process calculi and related formally specified systems.
+
+* Formalisation of model-theoretic and proof-theoretic semantics of logics.
+
+* Theoretical and practical issues concerning the treatment of variable binding, especially the representation of, and reasoning about, datatypes defined from binding signatures.
+
+* Logical treatments of inductive and co-inductive definitions and associated reasoning techniques, including inductive types of higher dimension in homotopy type theory.
+
+* Graphical languages for building proofs and their applications in geometry, equational reasoning and category theory.
+
+* New theory contributions: canonical and substructural frameworks, contextual frameworks, proof-theoretic foundations supporting binders, functional programming over logical frameworks, homotopy and cubical type theory.
+
+* Applications of logical frameworks: proof-carrying architectures, proof exchange and transformation, program refactoring, etc.
+
+* Techniques for programming with binders in functional programming languages such as Haskell, OCaml or Agda, and logic programming languages such as lambda Prolog or Alpha-Prolog.
+
+* Design and implementation of systems and tools related to meta-languages and logical frameworks
+
+
+
+IMPORTANT DATES
+
+All deadlines are established as the end of day (23:59) AoE.
+
+* Abstract submission deadline:  5 April 2020
+* Submission deadline:          11 April 2020 
+* Notification to authors:      13 May   2020 
+* Final version due:            22 May   2020 
+* Workshop:                     29 June  2020
+
+
+SUBMISSION INFORMATION
+
+In addition to regular papers, we accept the submission of "work in progress" reports, in a broad sense. Those do not need to report fully polished research results, but should be of interest for the community at large.
+
+Submitted papers should be in PDF, formatted using the EPTCS LaTeX style. The length is restricted to 15 pages for regular papers and 8 pages for "Work in Progress" papers.
+
+Submission is via EasyChair: 
+https://easychair.org/my/conference?conf=lfmtp2020 
+
+All submissions will be peer-reviewed and the authors of those accepted will be invited to present their papers at the workshop.
+
+
+POST-PROCEEDINGS
+
+After the workshop we will publish post-proceedings in the Electronic Proceedings in Theoretical Computer Science (EPTCS) series. 
+
+Accepted regular papers will be published in the post-proceedings. 
+
+Authors of selected work-in-progress papers will be invited to submit the full versions of their papers for publication in the post-proceedings, subject to another round of review. 
+
+
+PROGRAM COMMITTEE
+
+David Baelde, LSV, ENS Paris-Saclay & Inria Paris
+Frédéric Blanqui, INRIA
+Alberto Ciaffaglione, University of Udine
+Dennis Müller, Friedrich-Alexander-University Erlangen-Nürnberg
+Michael Norrish, Data61
+Carlos Olarte, Universidade Federal do Rio Grande do Norde
+Claudio Sacerdoti Coen, University of Bologna (PC Co-Chair)
+Ulrich Schöpp, fortiss GmbH
+Alwen Tiu, Australian National University (PC Co-Chair)
+Tjark Weber, Uppsala University

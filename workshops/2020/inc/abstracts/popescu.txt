@@ -1,0 +1,16 @@
+(Joint work with Jasmin Blanchette, Lorenzo Gheri and Dmitriy Traytel)
+
+Supernominal (co)datatypes form the basis of an expressive
+mechanism for specifying and reasoning about syntax with bindings.
+They are a generalization of the nominal logic datatypes having two
+distinguishing features. First, they go beyond finite support,
+catering for structures with infinite branching and/or infinite depth.
+Second, they are compositional: Complex binding structures, such as
+those proposed in the POPLmark challenge, arise naturally by composing
+and iterating simpler patterns. Dedicated support for binding-aware
+(co)recursion and (co)induction also follows from these constructions.
+A prototype of supernominal (co)datatypes has been formalized in
+Isabelle/HOL as an extension of the standard (co)datatypes and their
+underlying Bounded Natural Functors (BNFs). An implementation as a
+definitional package is under way.
+

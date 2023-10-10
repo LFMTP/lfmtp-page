@@ -1,0 +1,8 @@
+Module systems for logical frameworks allow building logics and calculi component-wise from small self-contained building blocks. 
+While this enables a high degree of reuse, we still observed many situations where a module system was not sufficient to eliminate redundancy. 
+One particular source of redundancy are module-level syntactic transformations that are entirely formulaic and therefore automatable, but also too complex to capture in typical module systems. 
+In order to overcome this, we introduced the concept of diagram operators and implemented it in the MMT framework (which allows implementing various LF-style logical frameworks). 
+
+In this paper, we show how we apply diagram operators to eliminate redundancy in large modular libraries of logic formalizations. 
+This enables building many related formalizations in a systematically related way, which simplifies the formalization process and enhances its results, while massively reducing the maintenance cost.
+
