@@ -1,0 +1,13 @@
+Cedille is a relatively recent tool based on a Curry-style pure type
+theory, without a primitive datatype system.  Using novel
+techniques based on dependent intersection types, inductive
+datatypes with their induction principles are derived.  One
+benefit of this approach is that it allows exploration of new or
+advanced forms of inductive datatypes.  This paper reports work in
+progress on one such form, namely higher-order abstract syntax
+(HOAS).  We consider the nature of HOAS in the setting of pure type
+theory, comparing with the traditional concept of environment models
+for lambda calculus.  We see an alternative, based on what we term
+Kripke function-spaces, for which Cedille confirms we have a weakly
+initial algebra.  Progress extending this to support dependent
+elimination is described.

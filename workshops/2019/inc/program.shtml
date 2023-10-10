@@ -1,0 +1,168 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/program.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/program.css" />
+
+
+<h1>Workshop Program</h1>
+
+<p>Venue: <strong>Room 2280</strong>, SFU Harbour Centre in Downtown Vancouver. Address: 515 W Hastings St, Vancouver, BC V6B 5K3, Canada.</p>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">8:00-9:00</span>
+    <span class="title breakfast">(near room 2945)&nbsp;</span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">10:30-12:30</td>
+        <td class="title">1st session</td>
+        <td class="chair">(chair: Ivan Scagnetto)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">10:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited"><a href="https://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a></span>
+      </div>
+      <div class="title">
+        Cocon: A Type Theory for Defining Logics and Proofs
+        <span class="abstract" src="inc/abstracts/pientka.txt"></span>
+        <span class="slides"><a href="inc/slides/pientka.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">11:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person"><a href="https://kwarc.info/people/dmueller/">Dennis Müller</a></span> and
+        <span class="person"><a href="https://kwarc.info/people/frabe/">Florian Rabe</a></span>
+      </div>
+      <div class="title">
+        Rapid Prototyping Formal Systems in MMT: 5 Case Studies
+        <span class="abstract" src="inc/abstracts/mueller-rabe.txt"></span>
+        <span class="slides"><a href="inc/slides/rabe.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+    <td class="time">12:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person"><a href="http://www.lsv.fr/~fthire/">François Thiré</a></span>
+      </div>
+      <div class="title">
+        Cumulative Types Systems and levels
+        <span class="abstract" src="inc/abstracts/thire.txt"></span>
+        <span class="slides"><a href="inc/slides/thire.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">12:30-14:00</span>
+    <span class="title lunchbreak">(near room 2945)&nbsp;</span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">14:00-15:30</td>
+        <td class="title">2nd session</td>
+        <td class="chair">(chair: Dale Miller)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">14:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person invited"><a href="https://www.microsoft.com/en-us/research/people/chrishaw/">Chris Hawblitzel</a></span>
+      </div>
+      <div class="title">
+        Combining tactics, normalization, and SMT solving to verify systems software
+        <span class="abstract" src="inc/abstracts/hawblitzel.txt"></span>
+        <span class="slides"><a href="inc/slides/hawblitzel.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+  <td class="time">15:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person"><a href="http://homepage.divms.uiowa.edu/~astump/">Aaron Stump</a></span>
+      </div>
+      <div class="title">
+        Towards Higher-Order Abstract Syntax in Cedille (Work in Progress)
+        <span class="abstract" src="inc/abstracts/stump.txt"></span>
+        <span class="slides"><a href="inc/slides/stump.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="session">
+  <div class="break">
+    <span class="interval">15:30-16:00</span>
+    <span class="title coffeebreak">(near room 2945)&nbsp;</span>
+  </div>
+</div>
+
+<div class="session">
+  <div class="heading">
+    <table>
+      <tr>
+        <td class="interval">16:00-17:00</td>
+        <td class="title">3rd session</td>
+        <td class="chair">(chair: Ivan Scagnetto)</td>
+      </tr>
+    </table>
+  </div>
+  <table class="talks">
+  <tr class="talk">
+    <td class="time">16:00</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person"><a href="https://kwarc.info/people/mkohlhase/">Michael Kohlhase</a></span> and
+        <span class="person"><a href="https://kwarc.info/people/jfschaefer/">Jan Frederik Schaefer</a></span>
+      </div>
+      <div class="title">
+        GF + MMT = GLF - From Language to Semantics through LF
+        <span class="abstract" src="inc/abstracts/kohlhase-schaefer.txt"></span>
+        <span class="slides"><a href="inc/slides/schaefer.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+  <tr class="talk">
+  <td class="time">16:30</td>
+    <td class="presentation">
+      <div class="authors">
+        <span class="person"><a href="http://users.dimi.uniud.it/~fabio.alessi/">Fabio Alessi</a></span>,
+        <span class="person"><a href="http://users.dimi.uniud.it/~alberto.ciaffaglione/">Alberto Ciaffaglione</a></span>,
+        <span class="person"><a href="http://users.dimi.uniud.it/~pietro.digianantonio/">Pietro Di Gianantonio</a></span>,
+        <span class="person"><a href="http://users.dimi.uniud.it/~furio.honsell/">Furio Honsell</a></span> and
+        <span class="person"><a href="http://users.dimi.uniud.it/~marina.lenisa/">Marina Lenisa</a></span>
+      </div>
+      <div class="title">
+        A definitional implementation of the Lax Logical Framework LLFP in Coq
+        <span class="abstract" src="inc/abstracts/alessi_et_al.txt"></span>
+        <span class="slides"><a href="inc/slides/honsell.pdf">slides</a></span>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>

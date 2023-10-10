@@ -1,0 +1,37 @@
+lfmtp@inria.fr is the mailing list for announcements about LFMTP
+it is managed by Frédéric Blanqui and Brigitte Pientka
+it has 173 subscribed email addresses on 24 May 2018
+
+international mailing lists:
+
+coq-club@inria.fr
+seminar-16421@dagstuhl.de
+ssreflect@msr-inria.inria.fr
+agda@lists.chalmers.se
+fom@cs.nyu.edu
+homotopytypetheory@googlegroups.com
+rewriting@ens-lyon.fr
+why3-club@lists.gforge.inria.fr
+pvs@csl.sri.com
+maude-users@lists.cs.illinois.edu
+isabelle-users@cl.cam.ac.uk
+hol-info@lists.sourceforge.net
+types-announce@lists.seas.upenn.edu
+http://lii.rwth-aachen.de/lics/newsletters/inst.html, LICS Newsletter (last in Dec??)
+lprolog@cs.umn.edu
+nuprl@cs.cornell.edu
+folli@folli.info
+project-calculemus@jacobs-university.de
+smt-lib@cs.nyu.edu
+newsletter@aarinc.org
+acl2@utlists.utexas.edu
+
+national mailing lists:
+
+gdr.gpl@imag.fr, French research network on programming languages and software engineering
+gdr-im@gdr-im.fr, French research network on mathematics and computer science
+alp-diffusion@univ-lille1.fr
+logica-l@dimap.ufrn.br, Brazilian Mailing-List of Logic
+logic@math.uni-bonn.de, DVMLG
+prooftheory@lists.bath.ac.uk, Bath Proof Theory mailing list
+loginf@lists.tcs.ifi.lmu.de, German Mainling-List of Logic

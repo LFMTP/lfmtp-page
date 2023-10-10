@@ -1,0 +1,20 @@
+These days, vast amounts of knowledge are available online,
+most of it in written form.
+Search engines help us access this knowledge,
+but aggregating, relating and reasoning with it is still a predominantly human effort.
+One of the key challenges for automated reasoning based on natural-language texts
+is the need to extract meaning (semantics) from texts.
+Natural language understanding (NLU) systems
+describe the conversion from a set of natural language utterances to terms in a particular logic.
+Tools for the co-development of grammar and target logic are currently largely missing.<br/>
+
+We will describe the <em>Grammatical Logical Framework</em> (<span style="font-family: Sans-Serif;">GLF</span>),
+a combination of two existing frameworks, in which large parts of a symbolic, rule-based NLU system can be developed and  implemented:
+the Grammatical Framework (<span style="font-family: Sans-Serif;">GF</span>) and <span style="font-family: Sans-Serif;">MMT</span>.
+<span style="font-family: Sans-Serif;">GF</span> is a tool for syntactic analysis, generation, and translation with complex natural language grammars
+and <span style="font-family: Sans-Serif;">MMT</span> can be used to specify logical systems and to represent knowledge in them.
+Combining these tools is possible, because they are based on compatible logical frameworks: Martin-L&ouml;f type theory and LF.
+The flexibility of logical frameworks is needed, as NLU research has not settled on
+a particular target logic for meaning representation. Instead, new logics are developed all the time to handle various language phenomena.
+<span style="font-family: Sans-Serif;">GLF</span> allows users to develop the logic and the language parsing components in parallel, and to
+connect them for experimentation with the entire pipeline.

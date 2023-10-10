@@ -1,0 +1,11 @@
+Logical frameworks are meta-formalisms in which the syntax and semantics of object logics and related formal systems can be defined.
+This allows object logics to inherit implementations from the framework including, e.g., parser, type checker, or module system.
+But if the desired object logic falls outside the comfort zone of the logical framework, these definitions may become cumbersome or infeasible.<br/>
+
+Therefore, the MMT system abstracts even further than previous frameworks: it assumes no type system or logic at all and allows its kernel algorithms to be customized by almost arbitrary sets of rules.
+In particular, this allows implementing standard logical frameworks like LF in MMT.
+But it does so without chaining users to one particular meta-formalism: users can flexibly adapt MMT whenever the object logic demands it.<br/>
+
+In this paper, we present a series of case studies that do just that, defining increasingly complex object logics in MMT.
+We use elegant declarative logic definitions wherever possible, but inject entirely new rules into the kernel when necessary.
+Our experience shows that the MMT approach allows deriving prototype implementations of very diverse formal systems very easily and quickly.

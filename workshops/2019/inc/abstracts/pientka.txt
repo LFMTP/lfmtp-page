@@ -1,0 +1,39 @@
+Back in the 1980's, two different foundations were proposed as a
+foundation for mechanizing metatheory. One such foundation is the
+Edinburgh Logical Framework (LF) proposed by Harper, Honsell, and
+Plotkin. LF provides general and uniform treatment of syntax, rules,
+and proofs using a dependently typed λ-calculus. In particular, we can
+exploit the LF function space to represent variable bindings and scope
+of hypothesis in proof derivations using higher-order abstract syntax
+(HOAS) trees. This approach can offer substantial benefits: programmers do
+not need to build up the basic mathematical infrastructure, they can
+work at a higher-level of abstraction, encodings are more compact, and
+hence it is easier to mechanize formal systems together with their
+meta-theory. However, it also is intentionally weak and lacks
+case-analysis and recursion.<br/>
+
+Dependent type theories such as the Calculus of Construction or Martin
+Loef Type Theory provide another foundation for formalizing
+mathematics. While they do not provide intrinsic support for common
+issues related to modelling the scope of assumptions and substitution,
+their expressive power goes well beyond what LF offers: they provide a
+hierarchy of universes and support recursive computation on types and
+terms.<br/>
+
+In this talk, I describe Cocon, a dependent type theory that allows us
+to mix the (weak) LF function space that is used to represent 
+higher-order abstract syntax (HOAS) trees with the (strong) function
+space that allows us to describe (recursive) computation over types
+and terms. We mediate between HOAS representations and computations
+using contextual modal types.  Our type theory also supports an
+infinite hierarchy of universes and hence supports type-level
+computation---thereby providing metaprogramming and (small-scale)
+reflection.<br/>
+
+I will motivate the underlying ideas, survey some of the results that
+lead to the design of Cocon, and show how this work resolves the
+tension between HOAS-based proof environments and dependent type
+theories such as the Calculus of Construction or Martin Loef Type
+Theory. As such it lays the foundation to incorporate the LF
+methodology into dependently typed proof assistants such as Agda and
+Coq and hence bridges the longstanding gap between these two worlds.

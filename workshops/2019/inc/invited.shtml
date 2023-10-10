@@ -1,0 +1,30 @@
+<script type="text/javascript"            src="inc/lib/jquery.min.js"></script>
+<script type="text/javascript"            src="inc/scripts/invited.js"></script>
+<link   type="text/css" rel="stylesheet" href="inc/style/invited.css" />
+
+
+<h1>Invited talks</h1>
+
+<!---------------------------------------------------------------------------->
+<a name="Hawblitzel"></a>
+
+<h3 class="title">Combining tactics, normalization, and SMT solving to verify systems software</h3>
+
+<p class="speaker">
+  <b><a href="https://www.microsoft.com/en-us/research/people/chrishaw/">Chris Hawblitzel</a></b>
+  <span class="institution">Systems Research Group, Microsoft Research, Redmond, USA</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/hawblitzel.txt"></p>
+
+<!---------------------------------------------------------------------------->
+<a name="Pientka"></a>
+
+<h3 class="title">Cocon: A Type Theory for Defining Logics and Proofs</h3>
+
+<p class="speaker">
+  <b><a href="https://www.cs.mcgill.ca/~bpientka/">Brigitte Pientka</a></b>
+  <span class="institution">McGill University, Canada</span>
+</p>
+
+<p class="abstract" src="inc/abstracts/pientka.txt"></p>

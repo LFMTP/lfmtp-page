@@ -25,9 +25,13 @@ venues for presenting results on type theories and logical frameworks.
    (Universidade Federal do Rio Grande do Norte: Natal, RN, BR) and Enrico
    Tassi (Inria, Sophia-Antipolis, FR). [Proceedings](https://arxiv.org/abs/2107.07376).
 
-
  * [LFMTP'20](./2020){:target="_blank"}, Paris, France, affiliated with 
-   [IJCAR 2020](https://ijcar2020.org/) and [FSCD 2020](https://fscd2020.org/),
+   [IJCAR 2020](https://ijcar2020.org/) and FSCD 2020,
    organized by Alwen Tiu (Australian National University) and Claudio
    Sacerdoti Coen (University of Bologna).
+
+ * [LFMTP'19](./2019){:target="_blank"}, Vancouver, CA, affiliated with 
+    [LICS'19](http://www.floc2018.org/), 
+    organized by Dale Miller (INRIA and LIX, France) and Ivan Scagnetto (University of Udine).
+    [Proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP2019).
 
