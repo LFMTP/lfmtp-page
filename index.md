@@ -19,8 +19,6 @@ implementers, and practitioners working on these areas.
  * [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)  (Inria Sophia-Antipolis), 2023-2028
  * [Alwen Tiu](http://users.cecs.anu.edu.au/~tiu/)  (Australian National University), 2020-2025
 
-Hosting for the LFMTP website is provided by [Carsten Sch&uuml;rmann](http://www.itu.dk/~carsten/)
-
 Most recent former members:
 
  * [Florian Rabe](https://kwarc.info/people/frabe/)  (University Erlangen-Nuremberg), 2017-2022, chair 2018-2022
