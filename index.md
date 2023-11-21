@@ -16,6 +16,7 @@ implementers, and practitioners working on these areas.
  * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka)  (McGill University), 2020-2025
  * [Elaine Pimentel](https://sites.google.com/site/elainepimentel/)  (University College London), 2021-2026, **chair 2022-2024**
  * [Giselle Reis](http://www.gisellereis.com/)  (Carnegie Mellon University Qatar), 2018-2023
+ * [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)  (Inria Sophia-Antipolis), 2023-2028
  * [Alwen Tiu](http://users.cecs.anu.edu.au/~tiu/)  (Australian National University), 2020-2025
 
 Hosting for the LFMTP website is provided by [Carsten Sch&uuml;rmann](http://www.itu.dk/~carsten/)
