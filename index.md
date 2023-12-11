@@ -15,12 +15,11 @@ implementers, and practitioners working on these areas.
  * [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/)  (Inria Saclay), 2019-2024
  * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka)  (McGill University), 2020-2025
  * [Elaine Pimentel](https://sites.google.com/site/elainepimentel/)  (University College London), 2021-2026, **chair 2022-2024**
- * [Giselle Reis](http://www.gisellereis.com/)  (Carnegie Mellon University Qatar), 2018-2023
  * [Enrico Tassi](http://www-sop.inria.fr/members/Enrico.Tassi/)  (Inria Sophia-Antipolis), 2023-2028
  * [Alwen Tiu](http://users.cecs.anu.edu.au/~tiu/)  (Australian National University), 2020-2025
 
 Most recent former members:
-
+ * [Giselle Reis](http://www.gisellereis.com/)  (Carnegie Mellon University Qatar), 2018-2023
  * [Florian Rabe](https://kwarc.info/people/frabe/)  (University Erlangen-Nuremberg), 2017-2022, chair 2018-2022
  * [Marino Miculan](http://users.dimi.uniud.it/%7Emarino.miculan/)  (University of Udine), 2017-2022
  * [Alberto Momigliano](http://momigliano.di.unimi.it/)  (University of Milan), 2015-2021
