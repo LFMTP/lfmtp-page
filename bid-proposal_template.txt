@@ -1,0 +1,194 @@
+		  Workshop Proposal: International Workshop on Logical
+       Frameworks and Meta-Languages: Theory and Practice (LFMTP)
+
+SCIENTIFIC CONTENT
+
+Description:
+  Logical frameworks and meta-languages form a common substrate for
+  representing, implementing, and reasoning about a wide variety of
+  deductive systems of interest in logic and computer science. Their
+  design and implementation on the one hand and their use in reasoning
+  tasks ranging from the correctness of software to the properties of
+  formal computational systems on the other hand have been the focus
+  of considerable research over the last three decades. This workshop
+  will bring together designers, implementors, and practitioners to
+  discuss various aspects impinging on the structure and utility of
+  logical frameworks, including the treatment of variable binding,
+  inductive and co-inductive reasoning techniques, and the expressivity
+  and lucidity of the reasoning process.
+
+  LFMTP 2024 will provide researchers a forum to present
+  state-of-the-art techniques and discuss progress in areas such as
+  the following:
+  - Encoding and reasoning about the meta-theory of programming
+    languages and related formally specified systems.
+  - Theoretical and practical issues concerning the treatment of
+    variable binding, especially the representation of, and reasoning
+    about, datatypes defined from binding signatures.
+  - Logical treatments of inductive and co-inductive definitions and
+    associated reasoning techniques.
+  - New theory contributions such as canonical and substructural frameworks,
+    contextual frameworks, proof-theoretic foundations supporting
+    binders, functional programming over logical frameworks, or homotopy
+    type theory.
+  - Systematic translation, combination, and integration of logics or
+    theorem prover libraries.
+  - Applications of logical frameworks, e.g. in certification and
+    guarantee of security properties.
+  - Techniques for programming with binders in functional programming
+    languages such as Haskell, OCaml, or Agda and logic programming
+    languages such as lambda Prolog or Alpha-Prolog.
+
+History:
+  The proposed workshop continues the series of workshops on logical
+  frameworks and meta-languages that started in 1999.  It began with
+  LFM and MERLIN, which were interleaved until 2005.  These two
+  workshops were merged in 2006 to form LFMTP, which has has grown
+  into one of the main venues for presenting results on type theories
+  and logical frameworks.
+
+  LFM: International Workshop on Logical Frameworks and Meta-languages
+  (1999 - 2004)
+
+     LFM'99, Paris, France, affiliated with PPDP and PLI, organized by
+     Amy Felty (now University of Ottawa)
+
+     LFM'00, Santa Barbara, USA, affiliated with LICS, organized by
+     Joelle Despeyroux (INRIA)
+
+     LFM'02, Copenhagen, Denmark, affiliated with LICS at FLOC,
+     organized by Frank Pfenning (Carnegie Mellon University).
+
+     LFM'04, Cork, Ireland, affiliated with IJCAR, organized by
+     Carsten Schürmann (Yale University)
+
+  MERLIN: International Workshop on MEchanized Reasoning about Languages
+  with variable BInding (2001 - 2005)
+
+     MERLIN 2001, Siena, Italy, affiliated with IJCAR, organized by
+     Roy L. Crole, Simon J. Ambler, and Alberto Momigliano (then at
+     University of Leicester, UK)
+
+     MERLIN 2003, Uppsala, Sweden, affiliated with PLI, organized by
+     Alberto Momigliano (then at University of Leicester, UK) and
+     Marino Miculan (University of Udine, Italy)
+
+     MERLIN 2005, Tallinn, Estonia, affiliated with ICFP, organized by
+     Alberto Momigliano (then at University of Edinburgh), Ivan
+     Scagnetto (Universiy of Udine), and Alwen Tiu (INRIA Lorraine)
+
+  LFMTP: International Workshop on Logical Frameworks and
+  Meta-Languages: Theory and Practice (2006 - present)
+
+     LFMTP'06, Seattle, USA, affiliated with LICS and IJCAR at FLoC,
+     organized by Brigitte Pientka (McGill University) and Alberto
+     Momigliano (University of Edinburgh)
+
+     LFMTP'07, Bremen, Germany, affiliated with CADE, organized by
+     Carsten Schürmann (IT University of Copenhagen) and Brigitte
+     Pientka (McGill University)
+
+     LFMTP'08, Pittsburgh, USA, affiliated with LICS, organized by
+     Andreas Abel (LMU) and Christian Urban (TUM)
+
+     LFMTP'09, Montreal, Canada, affiliated with CADE, organized by
+     Amy Felty (University of Ottawa) and James Cheney (University of
+     Edinburgh)
+
+     LFMTP'10, Edinburgh, Scotland, affiliated with LICS at FLoC,
+     organized by Karl Crary (Carnegie Mellon University) and Marino
+     Miculan (University of Udine).
+
+     LFMTP'11, Nijmegen, The Netherlands, affiliated with ITP,
+     organized by Herman Geuvers (Radboud University Nijmegen) and
+     Gopalan Nadathur (University of Minnesota).
+
+     LFMTP'12, Copenhagen, Denmark, affiliated with ICFP, organized
+     by Adam Chlipala (MIT) and Carsten Schuermann (ITU)
+
+     LFMTP'13, Boston, USA, affiliated with ICFP, organized by Alberto
+     Momigliano (University of Milan), Brigitte Pientka (McGill
+     University), and Randy Pollack (Harvard University)
+
+     LFMTP'14, Vienna, Austria, affiliated with CSL-LICS and IJCAR as part of FLoC and VSL'14, organized by Amy Felty (University of Ottawa) and Brigitte Pientka (McGill University)
+     
+     LFMTP'15, Berlin, Germany, affiliated with CADE-25, organized by Iliano Cervesato (Carnegie Mellon University) and Kaustuv Chaudhuri (INRIA)
+	 
+     LFMTP'16, Porto, Portugal, affiliated with FSCD, organized by Gilles Dowek (INRIA) and Dan Licata (Carnegie Mellon University)
+
+     LFMTP'17, Oxford, UK, affiliated with FSCD, organized by Florian Rabe (Jacobs University Bremen) and Marino Miculan (University of Udine)
+
+     LFMTP'18, Oxford, UK, affiliated with FLoC, organized by Frédéric Blanqui (INRIA, France) and Giselle Reis (Carnegie Mellon University, Qatar)
+
+     LFMTP'19, Oxford, UK, affiliated with LICS'19, organized by Dale Miller (INRIA and LIX, France) and Ivan Scagnetto (University of Udine)
+
+     LFMTP'20, Paris, France, affiliated with IJCAR'20, organized by Claudio Sacerdoti Coen (University of Bologna) and Alwen Tiu (Australian National University)
+
+     LFMTP'21, Pittsburgh, Pennsylvania, USA, affiliated with CADE 28, organized by Elaine Pimentel (Universidade Federal do Rio Grande do Norte: Natal, RN, BR) and Enrico Tassi (Inria, Sophia-Antipolis, FR)
+
+     LFMTP'22, Haifa, Israel, affiliated with FLoC 2022, organized by David Baelde (ENS Cachan, France) and Vivek Nigam (Federal University of Para’ba, Brazil)
+
+     LFMTP'23, Rome, Italy, affiliated with FSCDÕ23, organized by Alberto Ciaffaglione (Universitˆ degli Studi di Udine) and Carlos Olarte (LIPN, UniversitŽ Sorbonne Paris Nord)
+
+     
+ORGANIZATION
+
+Organizers
+   Workshop Co-chairs:
+   - Claudio Sacerdoti Coen (University of Bologna)
+   - Florian Rabe (Jacobs University Bremen)
+
+   Steering Committee
+    - David Baelde (ENS Rennes)
+    - Amy Felty (University of Ottawa)
+    - Dale Miller (Inria Saclay)
+    - Brigitte Pientka (McGill University)
+    - Elaine Pimentel (University College London)
+    - Enrico Tassi (Inria Sophia-Antipolis)
+    - Alwen Tiu (Australian National University)
+
+   Potential Program Committee Members (TBD)
+    - XXX
+   
+Estimate of Audience Size
+   20-40
+
+Proposed Format
+   The workshop program will be composed of regular papers (formally reviewed and published), invited talks, and informal work-in-progress talks.
+   
+Budget
+   The workshop expenses consist of expenses for about 2 invited speakers. We expect to profit from the attendance to the main conference for providing the invited speakers.
+
+Potential Invited Speakers
+   LFMTP and its predecessor workshops have had many invited speakers
+   over the years.  We will ask the program committee for suggestions.  Some
+   initial suggestions include:
+
+XXX Adapt dates
+Tentative Schedule
+   Abstract submission deadline: XXX
+   Submission deadline:          XXX
+   Notification to authors:      XXX
+   Final version due:            XXX
+   Workshop:                     XXX
+   
+Procedures for Selecting Papers and Participants
+   Submissions will include regular papers of approximately 8 pages
+   and work-in-progress papers of approximately 4 pages (formatted
+   using EPTCS style).  As in the past, we will have a program
+   committee of 8-10 people who will formally review the papers and help
+   select the invited speakers.
+   The topics are typically of interest to attendees of LICS, FSCD and ICALP track B.
+   As in the previous years, the workshop will be publicized through
+   mailing lists by repeated calls for papers and participation.
+   
+Plans for Dissemination
+   We plan to publish accepted papers electronically as part of the ACM
+   International Conference Proceedings Series as has been done in
+   several recent years.
+
+Duration
+   1 day
+
+Preferred Date
+   
