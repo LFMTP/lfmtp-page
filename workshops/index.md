@@ -106,3 +106,47 @@ venues for presenting results on type theories and logical frameworks.
     and Marino Miculan (University of Udine).
     [Proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?LFMTP10).
 
+*  LFMTP'09, Montreal, Canada, affiliated with CADE, organized by
+     Amy Felty (University of Ottawa) and James Cheney (University of
+     Edinburgh)
+
+* FMTP'08, Pittsburgh, USA, affiliated with LICS, organized by
+     Andreas Abel (LMU) and Christian Urban (TUM)
+
+* LFMTP'07, Bremen, Germany, affiliated with CADE, organized by
+     Carsten Sch¸rmann (IT University of Copenhagen) and Brigitte
+     Pientka (McGill University)
+  
+* LFMTP'06, Seattle, USA, affiliated with LICS and IJCAR at FLoC,
+     organized by Brigitte Pientka (McGill University) and Alberto
+     Momigliano (University of Edinburgh)
+
+LFM: International Workshop on Logical Frameworks and Meta-languages (1999 - 2004)
+
+* LFM'04, Cork, Ireland, affiliated with IJCAR, organized by
+     Carsten Schurmann (Yale University)
+     
+* LFM'02, Copenhagen, Denmark, affiliated with LICS at FLOC,
+     organized by Frank Pfenning (Carnegie Mellon University).
+
+*     LFM'00, Santa Barbara, USA, affiliated with LICS, organized by
+     Joelle Despeyroux (INRIA)
+  
+*   LFM'99, Paris, France, affiliated with PPDP and PLI, organized by
+     Amy Felty (now University of Ottawa)
+
+MERLIN: International Workshop on MEchanized Reasoning about Languages
+  with variable BInding (2001 - 2005)
+
+* MERLIN 2005, Tallinn, Estonia, affiliated with ICFP, organized by
+     Alberto Momigliano (then at University of Edinburgh), Ivan
+     Scagnetto (Universiy of Udine), and Alwen Tiu (INRIA Lorraine)
+
+* MERLIN 2003, Uppsala, Sweden, affiliated with PLI, organized by
+     Alberto Momigliano (then at University of Leicester, UK) and
+     Marino Miculan (University of Udine, Italy)
+     
+* MERLIN 2001, Siena, Italy, affiliated with IJCAR, organized by
+     Roy L. Crole, Simon J. Ambler, and Alberto Momigliano (then at
+     University of Leicester, UK)
+
