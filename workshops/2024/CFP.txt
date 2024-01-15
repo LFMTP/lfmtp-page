@@ -1,12 +1,12 @@
 ====================================================================
 
-             Call for papers -- LFMTP 2024
+          Preliminary Call for papers -- LFMTP 2024
 
            Logical Frameworks and Meta-Languages:
                    Theory and Practice
 
-             ??? -- ???, 2024
-               Affiliated with ??? 2024
+                      July approx. 9, 2024
+              Affiliated with FSCD 2024 (tentative)
 
               https://lfmtp.org/workshops/2024 
 
