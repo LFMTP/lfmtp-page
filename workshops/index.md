@@ -110,7 +110,7 @@ venues for presenting results on type theories and logical frameworks.
      Amy Felty (University of Ottawa) and James Cheney (University of
      Edinburgh)
 
-* FMTP'08, Pittsburgh, USA, affiliated with LICS, organized by
+* LFMTP'08, Pittsburgh, USA, affiliated with LICS, organized by
      Andreas Abel (LMU) and Christian Urban (TUM)
 
 * LFMTP'07, Bremen, Germany, affiliated with CADE, organized by
