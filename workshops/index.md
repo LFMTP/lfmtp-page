@@ -11,8 +11,8 @@ until 2005. These two workshops were merged in 2006 to form
 [LFMTP](http://lfmtp.org/), which has grown into one of the main
 venues for presenting results on type theories and logical frameworks.
 
-**LFMTP:** International Workshop on Logical Frameworks and
-  Meta-Languages: Theory and Practice (2006 - present)
+**LFMTP: International Workshop on Logical Frameworks and
+  Meta-Languages: Theory and Practice (2006 - present)**
 
  * [LFMTP'23](./2023/){:target="_blank"}, Rome, Italy, affiliated with
    [FSCD'23](https://easyconferences.eu/fscd2023/), organized by Alberto
@@ -124,7 +124,7 @@ venues for presenting results on type theories and logical frameworks.
      organized by Brigitte Pientka (McGill University) and Alberto
      Momigliano (University of Edinburgh)
 
-**LFM:** International Workshop on Logical Frameworks and Meta-languages (1999 - 2004)
+**LFM: International Workshop on Logical Frameworks and Meta-languages (1999 - 2004)**
 
 * LFM'04, Cork, Ireland, affiliated with IJCAR, organized by
      Carsten Schurmann (Yale University)
@@ -138,8 +138,8 @@ venues for presenting results on type theories and logical frameworks.
 *   LFM'99, Paris, France, affiliated with PPDP and PLI, organized by
      Amy Felty (now University of Ottawa)
 
-**MERLIN:** International Workshop on MEchanized Reasoning about Languages
-  with variable BInding (2001 - 2005)
+**MERLIN: International Workshop on MEchanized Reasoning about Languages
+  with variable BInding (2001 - 2005)**
 
 * MERLIN 2005, Tallinn, Estonia, affiliated with ICFP, organized by
      Alberto Momigliano (then at University of Edinburgh), Ivan
