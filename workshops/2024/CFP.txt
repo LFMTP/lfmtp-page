@@ -5,8 +5,8 @@
            Logical Frameworks and Meta-Languages:
                    Theory and Practice
 
-                      July approx. 9, 2024
-              Affiliated with FSCD 2024 (tentative)
+                       July 8, 2024
+                 Affiliated with FSCD 2024
 
               https://lfmtp.org/workshops/2024 
 
@@ -52,7 +52,7 @@ Abstract submission deadline: April 29
 Paper submission deadline:    May    6
 Notification to authors:      June   3
 Final version due:            June  13
-Workshop:                     July   9 (tentative)
+Workshop:                     July   8
 
 ## Submission and Proceedings
 

@@ -30,10 +30,11 @@ TBA
 
 ## Important Dates
 
-- Abstract submission deadline: TBA
-- Submission deadline: TBA
-- Notification to authors: TBA
-- Workshop: TBA
+- Abstract submission deadline: April 29
+- Paper submission deadline:    May    6
+- Notification to authors:      June   3
+- Final version due:            June  13
+- Workshop:                     July   8
 
 
 ## Submission
