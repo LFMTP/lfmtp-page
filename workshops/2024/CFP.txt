@@ -72,3 +72,9 @@ We will investigate the possibility of having a journal special issue for extend
 
 * Florian Rabe (University of Erlangen-Nuremberg), co-chair
 * Claudio Sacerdoti Coen (University of Bologna), co-chair
+* Mauricio Ayala-Rincón (University of Brasilia)
+* Mario Carneiro (Carnegie Mellon University)
+* Kaustuv Chaudhuri (École Polytechnique Paris)
+* Cyril Cohen (Inria Sophia Antipolis)
+* Theo Winterhalter (Inria Saclay)
+

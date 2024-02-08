@@ -1,5 +1,9 @@
 # LFMTP 2024
 
+**July 8, Tallinn, Estonia, associated with FSCD at [FSCD/LiCS/ICALP 2024](https://compose.ioc.ee/icalp2024/)**
+
+## Scope
+
 Logical frameworks and meta-languages form a common substrate for
 representing, implementing and reasoning about a wide variety of
 deductive systems of interest in logic and computer science. Their
@@ -37,7 +41,7 @@ TBA
 - Workshop:                     July   8
 
 
-## Submission
+## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2024/CFP.txt)
 
 We solicit regular papers of up to 15 pages (including references).
 These must be original and not simultaneously submitted to another venue.
@@ -55,4 +59,9 @@ We will investigate the possibility of having a journal special issue for extend
 
 - Florian Rabe (University of Erlangen-Nuremberg, Germany), co-chair
 - Claudio Sacerdoti Coen (University of Bologna, Italy), co-chair
+- Mauricio Ayala-Rincón (University of Brasilia)
+- Mario Carneiro (Carnegie Mellon University)
+- Kaustuv Chaudhuri (École Polytechnique Paris)
+- Cyril Cohen (Inria Sophia Antipolis)
+- Theo Winterhalter (Inria Saclay)
 - other members TBA 
