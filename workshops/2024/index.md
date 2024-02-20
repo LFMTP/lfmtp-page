@@ -61,7 +61,10 @@ We will investigate the possibility of having a journal special issue for extend
 - Claudio Sacerdoti Coen (University of Bologna, Italy), co-chair
 - Mauricio Ayala-Rincón (University of Brasilia)
 - Mario Carneiro (Carnegie Mellon University)
-- Kaustuv Chaudhuri (École Polytechnique Paris)
+- Kaustuv Chaudhuri (Inria Saclay)
 - Cyril Cohen (Inria Sophia Antipolis)
+- Alberto Momigliano (University of Milan, Italy)
+- Colin Rothgang (IMDEA, Madrid)
+- Sophie Tourret (Inria Nancy & Loria)
 - Theo Winterhalter (Inria Saclay)
 - other members TBA 
