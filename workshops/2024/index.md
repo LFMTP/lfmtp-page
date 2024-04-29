@@ -34,8 +34,8 @@ TBA
 
 ## Important Dates
 
-- Abstract submission deadline: April 29
-- Paper submission deadline:    May    6
+- Abstract submission deadline: April 29 EXTENDED to May  6
+- Paper submission deadline:    May    6 EXTENDED to May 13
 - Notification to authors:      June   3
 - Final version due:            June  13
 - Workshop:                     July   8
