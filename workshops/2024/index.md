@@ -76,4 +76,3 @@ We will investigate the possibility of having a journal special issue for extend
 - Colin Rothgang (IMDEA, Madrid)
 - Sophie Tourret (Inria Nancy & Loria)
 - Theo Winterhalter (Inria Saclay)
-- other members TBA 
