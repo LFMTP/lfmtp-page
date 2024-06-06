@@ -1,3 +1,8 @@
+---
+layout: post
+title: LFMTP: Logical Frameworks and Meta Languages: Theory and Practice.
+---
+
 # LFMTP: Logical Frameworks and Meta Languages: Theory and Practice.
 
 Type theories, logical frameworks and meta-languages form a common foundation
