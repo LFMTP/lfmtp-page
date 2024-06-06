@@ -40,7 +40,7 @@ This is joint work with Markus Krabbe Larsen.
 
 ## Program
 
-|Time | Authors | Topic |
+|Time | Authors | Title |
 |-----| ------- | ----- |
 | 9:00| Carsten Schürmann | Nominal State Separating Proofs |
 |10:00| coffee break |
@@ -59,7 +59,7 @@ This is joint work with Markus Krabbe Larsen.
 - Abstract submission deadline: April 29 EXTENDED to May  6
 - Paper submission deadline:    May    6 EXTENDED to May 13
 - Notification to authors:      June   3
-- Final version due:            June  13
+- Final version due:            June  13 EXTENDED to June 30
 - Workshop:                     July   8
 
 
