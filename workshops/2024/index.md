@@ -67,7 +67,7 @@ This is joint work with Markus Krabbe Larsen.
 
 We solicit regular papers of up to 15 pages (including references).
 These must be original and not simultaneously submitted to another venue.
-They will be reviewed, and we plan to publish (pre- or post-)proceedings in a series like EPTCS or similar.
+They will be formally reviewed, and we plan to publish (pre- or post-)proceedings in a series like EPTCS or similar.
 
 In addition, we encourage the submission of abstracts (1-4 pages including references) describing work-in-progress, new ideas, challenges, or other interesting informal contributions.
 
