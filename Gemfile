@@ -13,3 +13,4 @@ group :jekyll_plugins do
 end
 
 gem "jekyll-scholar"
+gem "bulma-clean-theme"
