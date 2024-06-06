@@ -23,7 +23,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lfmtp.org/" # the base hostname & protocol for your site
 
 # With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings
 markdown: kramdown
