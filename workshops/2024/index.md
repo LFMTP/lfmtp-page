@@ -44,18 +44,18 @@ This is joint work with Markus Krabbe Larsen.
 |-----| ------- | ----- |
 | 9:00| Carsten Schürmann | Nominal State Separating Proofs |
 |10:00| coffee break |
-|10:30| Thomas Traversié | Kuroda for Higher-Order Logic in the lambdaPi-Calculus Modulo Theory |
-|11:15| Rishikesh Vaishnav | A Term-Patching Framework for Eliminating Definitional Equalities in Lean |
+|10:30| Thomas Traversié | [Kuroda for Higher-Order Logic in the lambdaPi-Calculus Modulo Theory] (paper_3_traversie.pdf)|
+|11:15| Rishikesh Vaishnav | [A Term-Patching Framework for Eliminating Definitional Equalities in Lean](wip_1_vaishnav.pdf) |
 |12:00| lunch break |
-|14:00| Thomas Traversié | Proofs for Free in the lambdaPi-Calculus Modulo Theory |
-|14:45| Gabriele Cecilia and Alberto Momigliano	| A Beluga Formalization of the Harmony Lemma in the pi-Calculus |
+|14:00| Thomas Traversié | [Proofs for Free in the lambdaPi-Calculus Modulo Theory](paper_4_traversie.pdf) |
+|14:45| Gabriele Cecilia and Alberto Momigliano	| [A Beluga Formalization of the Harmony Lemma in the pi-Calculus](paper_1_cecilia) |
 |15:30| coffee break |
-|16:00| Terrance Gray, Gopalan Nadathur | Binding Contexts as Partitionable Multisets in Abella
-|16:45| Florian Guthmann, Philip Kaludercic, Johannes Lindner, Tadeusz Litak	| Abella2Coq: Translating Abella Specifications into Coq |
+|16:00| Terrance Gray, Gopalan Nadathur | [Binding Contexts as Partitionable Multisets in Abella](paper_2_gray_etal.pdf)
+|16:45| Florian Guthmann, Philip Kaludercic, Johannes Lindner, Tadeusz Litak	| [Abella2Coq: Translating Abella Specifications into Coq](wip_2_guthmann_etal.pdf) |
 
 ## Proceedings
 
-The formal proceedings will appear in <a href="https://eptcs.org">EPTCS</a>.
+The formal proceedings will appear in [EPTCS](https://eptcs.org).
 
 ## Program Committee
 
