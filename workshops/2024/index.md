@@ -53,6 +53,22 @@ This is joint work with Markus Krabbe Larsen.
 |16:00| Terrance Gray, Gopalan Nadathur | Binding Contexts as Partitionable Multisets in Abella
 |16:45| Florian Guthmann, Philip Kaludercic, Johannes Lindner, Tadeusz Litak	| Abella2Coq: Translating Abella Specifications into Coq |
 
+## Proceedings
+
+The formal proceedings will appear in <a href="https://eptcs.org">EPTCS</a>.
+
+## Program Committee
+
+- Florian Rabe (University of Erlangen-Nuremberg, Germany), co-chair
+- Claudio Sacerdoti Coen (University of Bologna, Italy), co-chair
+- Mauricio Ayala-Rincón (University of Brasilia)
+- Mario Carneiro (Carnegie Mellon University)
+- Kaustuv Chaudhuri (Inria Saclay)
+- Cyril Cohen (Inria Sophia Antipolis)
+- Alberto Momigliano (University of Milan, Italy)
+- Colin Rothgang (IMDEA, Madrid)
+- Sophie Tourret (Inria Nancy & Loria)
+- Theo Winterhalter (Inria Saclay)
 
 ## Important Dates
 
@@ -76,16 +92,3 @@ All submitted papers should be in PDF format following the [EPTCS style](https:/
 Submissions should be made via [EasyChair](https://easychair.org/conferences/?conf=lfmtp24).
 
 We will investigate the possibility of having a journal special issue for extended versions of selected contributions.
-
-## Program Committee
-
-- Florian Rabe (University of Erlangen-Nuremberg, Germany), co-chair
-- Claudio Sacerdoti Coen (University of Bologna, Italy), co-chair
-- Mauricio Ayala-Rincón (University of Brasilia)
-- Mario Carneiro (Carnegie Mellon University)
-- Kaustuv Chaudhuri (Inria Saclay)
-- Cyril Cohen (Inria Sophia Antipolis)
-- Alberto Momigliano (University of Milan, Italy)
-- Colin Rothgang (IMDEA, Madrid)
-- Sophie Tourret (Inria Nancy & Loria)
-- Theo Winterhalter (Inria Saclay)
