@@ -48,7 +48,7 @@ This is joint work with Markus Krabbe Larsen.
 |11:15| Rishikesh Vaishnav | [A Term-Patching Framework for Eliminating Definitional Equalities in Lean](wip_1_vaishnav.pdf) |
 |12:00| lunch break |
 |14:00| Thomas Traversié | [Proofs for Free in the lambdaPi-Calculus Modulo Theory](paper_4_traversie.pdf) |
-|14:45| Gabriele Cecilia and Alberto Momigliano	| [A Beluga Formalization of the Harmony Lemma in the pi-Calculus](paper_1_cecilia) |
+|14:45| Gabriele Cecilia and Alberto Momigliano	| [A Beluga Formalization of the Harmony Lemma in the pi-Calculus](paper_1_cecilia.pdf) |
 |15:30| coffee break |
 |16:00| Terrance Gray, Gopalan Nadathur | [Binding Contexts as Partitionable Multisets in Abella](paper_2_gray_etal.pdf)
 |16:45| Florian Guthmann, Philip Kaludercic, Johannes Lindner, Tadeusz Litak	| [Abella2Coq: Translating Abella Specifications into Coq](wip_2_guthmann_etal.pdf) |
