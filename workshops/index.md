@@ -14,8 +14,11 @@ venues for presenting results on type theories and logical frameworks.
 **LFMTP: International Workshop on Logical Frameworks and
   Meta-Languages: Theory and Practice (2006 - present)**
 
+ * [LFMTP'24](./2024/){:target="_blank"}, Tallinn, Estonia, Italy, affiliated with
+   [FSCD'24](https://easyconferences.eu/fscd2023/), by Florian Rabe (University Erlangen-Nuremberg) and Claudio Sacerdoti Coen (University Bologna)
+
  * [LFMTP'23](./2023/){:target="_blank"}, Rome, Italy, affiliated with
-   [FSCD'23](https://easyconferences.eu/fscd2023/), organized by Alberto
+   [FSCD'23](https://cs.ioc.ee/fscd24/), organized organized by Alberto
    Ciaffaglione (Università degli Studi di Udine) and Carlos Olarte (LIPN,
    Université Sorbonne Paris Nord)
 
