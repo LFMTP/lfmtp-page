@@ -1,0 +1,8 @@
+Nominal State Separating Proofs
+Carsten Schuermann
+
+The goal of this work is to mechanize the security proofs of cryptographic algorithms. The definition of security is expressed in terms of a game pair capturing the indistinguishability between real and ideal functionality. A security proof is then expressed as a sequence of game hops between these games. When mechanizing security proofs using modules (see Brzuska et al. s work on state separating proofs), which introduce sets of module-specific global state variables, compositionality becomes an issue, because two modules may use the same state variable names. Thus, state-variables must be renamed when composing modules as was already observed in.
+
+In my talk, I demonstrate how the theory of nominal sets can be used to solve this problem by introducing a notion of separated module composition that ensures separation of state-variables by applying permutations of names. Separation is defined constructively, so that it can be easily represented in a proof assistant, such as Coq or Lean. I show that alpha-equivalence implies perfect indistinguishability and that game-hopping through intermediate modules that introduce additional state-variables does not complicate the formulation of security theorems.
+
+This is joint work with Markus Krabbe Larsen.
