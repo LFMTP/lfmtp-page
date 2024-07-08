@@ -44,7 +44,7 @@ This is joint work with Markus Krabbe Larsen.
 |-----| ------- | ----- |
 | 9:00| Carsten Schürmann | [Nominal State Separating Proofs](invited_1.txt)|
 |10:00| coffee break |
-|10:30| Thomas Traversié | [Kuroda for Higher-Order Logic in the lambdaPi-Calculus Modulo Theory](paper_3_traversie.pdf)|
+|10:30| Thomas Traversié | [Kuroda's Translation for the λΠ-Calculus Modulo Theory and Dedukti](paper_3_traversie.pdf)|
 |11:15| Rishikesh Vaishnav | [A Term-Patching Framework for Eliminating Definitional Equalities in Lean](wip_1_vaishnav.pdf) |
 |12:00| lunch break |
 |14:00| Thomas Traversié | [Proofs for Free in the lambdaPi-Calculus Modulo Theory](paper_4_traversie.pdf) |
