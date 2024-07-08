@@ -51,12 +51,11 @@ This is joint work with Markus Krabbe Larsen.
 |14:45| Gabriele Cecilia and Alberto Momigliano	| [A Beluga Formalization of the Harmony Lemma in the pi-Calculus](paper_1_cecilia_etal.pdf) |
 |15:30| coffee break |
 |16:00| Terrance Gray, Gopalan Nadathur | [Binding Contexts as Partitionable Multisets in Abella](paper_2_gray_etal.pdf)
-|16:45| Florian Guthmann, Philip Kaludercic, Johannes Lindner, Tadeusz Litak	| [Abella2Coq: Translating Abella Specifications into Coq](wip_2_guthmann_etal.pdf) |
 
 ## Proceedings
 
-The formal proceedings will appear in [EPTCS](https://eptcs.org).
-The [preface](preface.pdf) is already available.
+The formal proceedings were published with [EPTCS](https://eptcs.org).
+They are available as [EPTCS 404](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP2024).
 
 ## Program Committee
 
