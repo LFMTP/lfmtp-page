@@ -15,7 +15,7 @@ Program Chairs (PCs) of the last 3 LFMTP workshops (independent of whether that
 leads to consecutive terms). In special circumstances (namely bootstrapping,
 not enough eligible persons per above rules, second or third vacancy in the
 same year) the current SC is allowed to select members outside the above
-categories. 
+categories . 
 
 
 ## Decision making
