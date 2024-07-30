@@ -37,5 +37,4 @@ Most recent former members:
  * [Michael Norrish](https://cecs.anu.edu.au/people/michael-norrish)  (Data 61), before 2014
 
 ## Contact
-
 Chair LFMTP: [Email us](mailto:elaine.pimentel@gmail.com)
