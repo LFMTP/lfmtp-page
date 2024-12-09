@@ -17,7 +17,7 @@ Description:
   inductive and co-inductive reasoning techniques, and the expressivity
   and lucidity of the reasoning process.
 
-  LFMTP 2024 will provide researchers a forum to present
+  LFMTP 2025 will provide researchers a forum to present
   state-of-the-art techniques and discuss progress in areas such as
   the following:
   - Encoding and reasoning about the meta-theory of programming
@@ -60,7 +60,7 @@ History:
      organized by Frank Pfenning (Carnegie Mellon University).
 
      LFM'04, Cork, Ireland, affiliated with IJCAR, organized by
-     Carsten Schürmann (Yale University)
+     Carsten SchÃ¼rmann (Yale University)
 
   MERLIN: International Workshop on MEchanized Reasoning about Languages
   with variable BInding (2001 - 2005)
@@ -85,7 +85,7 @@ History:
      Momigliano (University of Edinburgh)
 
      LFMTP'07, Bremen, Germany, affiliated with CADE, organized by
-     Carsten Schürmann (IT University of Copenhagen) and Brigitte
+     Carsten SchÃ¼rmann (IT University of Copenhagen) and Brigitte
      Pientka (McGill University)
 
      LFMTP'08, Pittsburgh, USA, affiliated with LICS, organized by
@@ -118,7 +118,7 @@ History:
 
      LFMTP'17, Oxford, UK, affiliated with FSCD, organized by Florian Rabe (Jacobs University Bremen) and Marino Miculan (University of Udine)
 
-     LFMTP'18, Oxford, UK, affiliated with FLoC, organized by Frédéric Blanqui (INRIA, France) and Giselle Reis (Carnegie Mellon University, Qatar)
+     LFMTP'18, Oxford, UK, affiliated with FLoC, organized by FrÃ©dÃ©ric Blanqui (INRIA, France) and Giselle Reis (Carnegie Mellon University, Qatar)
 
      LFMTP'19, Oxford, UK, affiliated with LICS'19, organized by Dale Miller (INRIA and LIX, France) and Ivan Scagnetto (University of Udine)
 
@@ -126,24 +126,26 @@ History:
 
      LFMTP'21, Pittsburgh, Pennsylvania, USA, affiliated with CADE 28, organized by Elaine Pimentel (Universidade Federal do Rio Grande do Norte: Natal, RN, BR) and Enrico Tassi (Inria, Sophia-Antipolis, FR)
 
-     LFMTP'22, Haifa, Israel, affiliated with FLoC 2022, organized by David Baelde (ENS Cachan, France) and Vivek Nigam (Federal University of Para’ba, Brazil)
+     LFMTP'22, Haifa, Israel, affiliated with FLoC 2022, organized by David Baelde (ENS Cachan, France) and Vivek Nigam (Federal University of Paraâ€™ba, Brazil)
 
-     LFMTP'23, Rome, Italy, affiliated with FSCDÕ23, organized by Alberto Ciaffaglione (Universitˆ degli Studi di Udine) and Carlos Olarte (LIPN, UniversitŽ Sorbonne Paris Nord)
+     LFMTP'23, Rome, Italy, affiliated with FSCDÃ•23, organized by Alberto Ciaffaglione (UniversitÃ  degli Studi di Udine) and Carlos Olarte (LIPN, UniversitÃ© Sorbonne Paris Nord)
+
+     LFMTP'24, July 8, Tallinn, Estonia, associated with FSCD at FSCD/LiCS/ICALP 2024, organized by Florian Rabe  (University of Erlangen-Nuremberg, Germany) and Claudio Sacerdoti Coen (University of Bologna, Italy)
 
      
 ORGANIZATION
 
 Organizers
    Workshop Co-chairs:
-   - Claudio Sacerdoti Coen (University of Bologna)
-   - Florian Rabe (Jacobs University Bremen)
+   - Kaustuv Chaudhuri (Inria)
+   - Daniele Nantes-Sobrinho (Imperial College/UnB)
 
    Steering Committee
     - David Baelde (ENS Rennes)
+    - Claudio Sacerdoti Coen (University of Bologna)
     - Amy Felty (University of Ottawa)
-    - Dale Miller (Inria Saclay)
     - Brigitte Pientka (McGill University)
-    - Elaine Pimentel (University College London)
+    - Elaine Pimentel (University College London) -- chair
     - Enrico Tassi (Inria Sophia-Antipolis)
     - Alwen Tiu (Australian National University)
 
