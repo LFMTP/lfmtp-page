@@ -69,9 +69,11 @@ A selection of the presented papers will be published online in the [Electronic 
 - Paper submission deadline:    May    9
 - Notification to authors:      June   6
 
+All deadlines are AoE (anywhere on earth)
+
 ## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2025/CFP.txt)
 
-Submit on EasyChair: https://easychair.org/conferences?conf=lfmtp2025
+Submit on EasyChair: [https://easychair.org/conferences?conf=lfmtp2025](https://easychair.org/conferences?conf=lfmtp2025)
 
 In addition to regular papers, we welcome/encourage the submission of
 "work in progress" reports, in a broad sense. Those do not need to
