@@ -12,7 +12,7 @@
 
 ====================================================================
 
-         Abstract submission deadline: May 2nd, 2025
+      Abstract submission deadline: May 9, 2025 (AoE)
 
 
 Logical frameworks and meta-languages form a common substrate for
@@ -62,8 +62,8 @@ The workshop's program will include contributed and invited talks.
 
 ## Important Dates
 
-Abstract submission deadline: May 2, 2025 (AoE)
-Paper submission deadline: May 9, 2025 (AoE)
+Abstract submission deadline: May 9, 2025 (AoE)
+Paper submission deadline: May 16, 2025 (AoE)
 Notification to authors: June 6, 2025 (AoE)
 
 ## Submission
