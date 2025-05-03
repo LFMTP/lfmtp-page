@@ -65,9 +65,9 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Important Dates
 
-- Abstract submission deadline: May    2
-- Paper submission deadline:    May    9
-- Notification to authors:      June   6
+- Abstract submission deadline: ~~May 2~~ May 9
+- Paper submission deadline:    ~~May 9~~ May 16
+- Notification to authors:      June 6
 
 All deadlines are AoE (anywhere on earth)
 
