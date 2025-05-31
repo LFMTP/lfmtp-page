@@ -51,6 +51,11 @@ The workshop's program will include contributed and invited talks.
 
 A selection of the presented papers will be published online in the [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://eptcs.org).
 
+## Invited Speakers
+
+- **Sonia Marin**, University of Birmingham
+- TBD
+
 ## Program Committee
 
 - David Baelde (ENS Rennes, IRISA)
