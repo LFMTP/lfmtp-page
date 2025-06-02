@@ -53,8 +53,8 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Invited Speakers
 
-- **Sonia Marin**, University of Birmingham
-- TBD
+- **[Sonia Marin](https://filipendule.github.io/)**, University of Birmingham
+- **[Yannick Forster](https://yforster.de/)**, Inria Paris
 
 ## Program Committee
 
