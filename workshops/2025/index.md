@@ -56,6 +56,15 @@ A selection of the presented papers will be published online in the [Electronic 
 - **[Sonia Marin](https://filipendule.github.io/)**, University of Birmingham
 - **[Yannick Forster](https://yforster.de/)**, Inria Paris
 
+## Accepted Papers
+
+* Zhibo Chen and [Frank Pfenning](http://www.cs.cmu.edu/~fp/). “CoLF Logic Programming as Infinitary Proof Exploration”
+* Nathan Guermond and Gopalan Nadathur. “Ground Stratification for a Logic of Definitions with Induction”
+* [Ambrus Kaposi](http://akaposi.github.io/) and Szumi Xie. “Type theory with single substitutions”
+* [Maribel Fernandez](http://www.inf.kcl.ac.uk/staff/maribel), [Miguel Pagano](http://cs.famaf.unc.edu.ar/~mpagano/), [Nora Szasz](http://fi.ort.edu.uy/nora-szasz-en) and [Alvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en). “Dependently Sorted Nominal Signatures”
+* [Thorsten Altenkirch](http://www.cs.nott.ac.uk/~txa/), Nathaniel Burke and [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/). “Substitution without copy and paste”
+* Sebastian Urciuoli. “On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions”
+
 ## Program Committee
 
 - David Baelde (ENS Rennes, IRISA)
@@ -72,11 +81,13 @@ A selection of the presented papers will be published online in the [Electronic 
 
 - Abstract submission deadline: ~~May 2~~ May 9
 - Paper submission deadline:    ~~May 9~~ May 16
-- Notification to authors:      June 6
+- Notification to authors:      ~~June 6~~ June 8
 
 All deadlines are AoE (anywhere on earth)
 
 ## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2025/CFP.txt)
+
+***Submissions are now closed!***
 
 Submit on EasyChair: [https://easychair.org/conferences?conf=lfmtp2025](https://easychair.org/conferences?conf=lfmtp2025)
 
