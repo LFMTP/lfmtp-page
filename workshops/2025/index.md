@@ -58,19 +58,19 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Preliminary Program
 
-|Time | Author / Title
+|Time | Speaker | Title
 |-----| ------- |
-|  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) -- Invited Talk
-| 10:00 - 10:30 | Coffee Break
-| 10:30 - 11:00 | [Maribel Fernandez](http://www.inf.kcl.ac.uk/staff/maribel), [Miguel Pagano](http://cs.famaf.unc.edu.ar/~mpagano/), [Nora Szasz](http://fi.ort.edu.uy/nora-szasz-en) and [Alvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en). “Dependently Sorted Nominal Signatures”
-| 11:00 - 11:30 | Sebastian Urciuoli. “On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions”
-| 11:30 - 12:00 | [Ambrus Kaposi](http://akaposi.github.io/) and Szumi Xie. “Type theory with single substitutions”
-| 12:00 - 12:30 | [Thorsten Altenkirch](http://www.cs.nott.ac.uk/~txa/), Nathaniel Burke and [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/). “Substitution without copy and paste”
-| 12:30 - 14:30 | Lunch Break
-| 14:30 - 15:30 | [Yannick Forster](https://yforster.de/) -- Invited Talk
-| 15:30 - 16:00 | Coffee Break
-| 16:00 - 16:30 | Zhibo Chen and [Frank Pfenning](http://www.cs.cmu.edu/~fp/). “CoLF Logic Programming as Infinitary Proof Exploration”
-| 16:30 - 17:00 | Nathan Guermond and Gopalan Nadathur. “Ground Stratification for a Logic of Definitions with Induction”
+|  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Invited Talk
+| 10:00 - 10:30 | Coffee Break |
+| 10:30 - 11:00 | Speaker TBD | Dependently Sorted Nominal Signatures
+| 11:00 - 11:30 | Sebastian Urciuoli | On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions
+| 11:30 - 12:00 | Szumi Xie | Type theory with single substitutions
+| 12:00 - 12:30 | Speaker TBD | Substitution without copy and paste
+| 12:30 - 14:30 | Lunch Break |
+| 14:30 - 15:30 | [Yannick Forster](https://yforster.de/) | Invited Talk
+| 15:30 - 16:00 | Coffee Break |
+| 16:00 - 16:30 | [Frank Pfenning](http://www.cs.cmu.edu/~fp/) | CoLF Logic Programming as Infinitary Proof Exploration
+| 16:30 - 17:00 | Nathan Guermond | Ground Stratification for a Logic of Definitions with Induction
 
 ## Accepted Papers
 
