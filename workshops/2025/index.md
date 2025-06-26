@@ -62,7 +62,7 @@ A selection of the presented papers will be published online in the [Electronic 
 |---------------|---------|--------------------------------------------------------------------|
 |  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Invited Talk
 | 10:00 - 10:30 | Coffee Break |
-| 10:30 - 11:00 | Speaker TBD | Dependently Sorted Nominal Signatures
+| 10:30 - 11:00 | [Alvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en) | Dependently Sorted Nominal Signatures
 | 11:00 - 11:30 | Sebastian Urciuoli | On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions
 | 11:30 - 12:00 | Szumi Xie | Type theory with single substitutions
 | 12:00 - 12:30 | Nathaniel Burke | Substitution without copy and paste
