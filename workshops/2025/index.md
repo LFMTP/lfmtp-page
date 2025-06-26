@@ -58,14 +58,14 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Preliminary Program
 
-|Time | Speaker | Title
-|-----| ------- |
+|Time           | Speaker | Title
+|---------------|---------|--------------------------------------------------------------------|
 |  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Invited Talk
 | 10:00 - 10:30 | Coffee Break |
 | 10:30 - 11:00 | Speaker TBD | Dependently Sorted Nominal Signatures
 | 11:00 - 11:30 | Sebastian Urciuoli | On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions
 | 11:30 - 12:00 | Szumi Xie | Type theory with single substitutions
-| 12:00 - 12:30 | Speaker TBD | Substitution without copy and paste
+| 12:00 - 12:30 | Nathaniel Burke | Substitution without copy and paste
 | 12:30 - 14:30 | Lunch Break |
 | 14:30 - 15:30 | [Yannick Forster](https://yforster.de/) | Invited Talk
 | 15:30 - 16:00 | Coffee Break |
