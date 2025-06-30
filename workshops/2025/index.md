@@ -54,15 +54,20 @@ A selection of the presented papers will be published online in the [Electronic 
 ## Invited Speakers
 
 - **[Sonia Marin](https://filipendule.github.io/)**, University of Birmingham
+
+  > ***Intuitionistic modalities through proof theory***  
+  >  
+  > Intuitionistic modal logic, despite more than seventy years of investigation, still partly escapes our comprehension. Structural proof theoretic accounts of intuitionistic modal logic have adopted either the paradigm of labelled deduction in the form of labelled natural deduction and sequent systems, or the one of unlabelled deduction in the form of sequent or nested sequent systems. Both approaches are still under active consideration. In this talk, I would like to give an overview of the current landscape of intuitionistic modal proof theory and survey some of the more recent developments.
+
 - **[Yannick Forster](https://yforster.de/)**, Inria Paris
 
 ## Preliminary Program
 
 |Time           | Speaker | Title
 |---------------|---------|--------------------------------------------------------------------|
-|  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Invited Talk
+|  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Intuitionistic modalities through proof theory
 | 10:00 - 10:30 | Coffee Break |
-| 10:30 - 11:00 | [Alvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en) | Dependently Sorted Nominal Signatures
+| 10:30 - 11:00 | [Álvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en) | Dependently Sorted Nominal Signatures
 | 11:00 - 11:30 | Sebastian Urciuoli | On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions
 | 11:30 - 12:00 | Szumi Xie | Type theory with single substitutions
 | 12:00 - 12:30 | Nathaniel Burke | Substitution without copy and paste
@@ -77,7 +82,7 @@ A selection of the presented papers will be published online in the [Electronic 
 * Zhibo Chen and [Frank Pfenning](http://www.cs.cmu.edu/~fp/). “CoLF Logic Programming as Infinitary Proof Exploration”
 * Nathan Guermond and Gopalan Nadathur. “Ground Stratification for a Logic of Definitions with Induction”
 * [Ambrus Kaposi](http://akaposi.github.io/) and Szumi Xie. “Type theory with single substitutions”
-* [Maribel Fernandez](http://www.inf.kcl.ac.uk/staff/maribel), [Miguel Pagano](http://cs.famaf.unc.edu.ar/~mpagano/), [Nora Szasz](http://fi.ort.edu.uy/nora-szasz-en) and [Alvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en). “Dependently Sorted Nominal Signatures”
+* [Maribel Fernández](http://www.inf.kcl.ac.uk/staff/maribel), [Miguel Pagano](http://cs.famaf.unc.edu.ar/~mpagano/), [Nora Szasz](http://fi.ort.edu.uy/nora-szasz-en) and [Álvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en). “Dependently Sorted Nominal Signatures”
 * [Thorsten Altenkirch](http://www.cs.nott.ac.uk/~txa/), Nathaniel Burke and [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/). “Substitution without copy and paste”
 * Sebastian Urciuoli. “On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions”
 
