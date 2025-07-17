@@ -61,21 +61,33 @@ A selection of the presented papers will be published online in the [Electronic 
 
 - **[Yannick Forster](https://yforster.de/)**, Inria Paris
 
+  > ***Obtaining executable programs from dependently typed proof assistants***  
+  >  
+  > Proof assistants based on dependent type theory are also powerful programming languages. Different proof assistants such as Rocq, Lean, and Agda make different design decisions how to obtain executables for programs, which is relevant for type checking and computation-heavy proof techniques.
+  >  
+  > Rocq's type theory has been designed almost from its conception with extraction of idiomatic OCaml programs in mind. The OCaml compiler can then be used to obtain executables for Rocq programs. Haskell and Scheme are also supported as target languages, and more recently C, Rust, Wasm, and other languages. At the core of extraction is a type and proof erasure procedure due to Christine Paulin-Mohring and Pierre Letouzey, while typing in the target languages has to rely on unsafe casts.  Optionally, elements of types can be extracted to more efficient runtime representations, using e.g. bignum for natural numbers.
+  >  
+  > Lean uses the same foundations and the same type and proof erasure procedure as Rocq, but makes the radical decision to implement its own optimising compiler down to C, since recently bootstrapped as a Lean program. By default, some elements of types are compiled to more efficient runtime representations, using e.g. GMP for natural numbers.
+  >  
+  > Agda allows program extraction to Haskell, where to be erased proofs have to be annotated manually.
+  >  
+  > In this invited talk, I survey these and other approaches discussing verifiability and trusted computing bases, maintenance overhead, performance, and future directions, as well as the ability to internally reason about what programs can exist.
+
 ## Preliminary Program
 
 |Time           | Speaker | Title
 |---------------|---------|--------------------------------------------------------------------|
 |  9:00 - 10:00 | [Sonia Marin](https://filipendule.github.io/) | Intuitionistic modalities through proof theory
 | 10:00 - 10:30 | Coffee Break |
-| 10:30 - 11:00 | [Álvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en) | Dependently Sorted Nominal Signatures
-| 11:00 - 11:30 | Sebastian Urciuoli | On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions
-| 11:30 - 12:00 | Szumi Xie | Type theory with single substitutions
-| 12:00 - 12:30 | Nathaniel Burke | Substitution without copy and paste
+| 10:30 - 11:00 | [Álvaro Tasistro](http://fi.ort.edu.uy/alvaro-tasistro-en) | [Dependently Sorted Nominal Signatures](papers/1.pdf)
+| 11:00 - 11:30 | Sebastian Urciuoli | [On the Formal Metatheory of the Pure Type System using One-sorted Variable Names and Multiple Substitutions](papers/2.pdf)
+| 11:30 - 12:00 | Szumi Xie | [Type theory with single substitutions](papers/3.pdf)
+| 12:00 - 12:30 | Nathaniel Burke | [Substitution without copy and paste](papers/4.pdf)
 | 12:30 - 14:30 | Lunch Break |
-| 14:30 - 15:30 | [Yannick Forster](https://yforster.de/) | Invited Talk
+| 14:30 - 15:30 | [Yannick Forster](https://yforster.de/) | Obtaining executable programs from dependently typed proof assistants
 | 15:30 - 16:00 | Coffee Break |
-| 16:00 - 16:30 | [Frank Pfenning](http://www.cs.cmu.edu/~fp/) | CoLF Logic Programming as Infinitary Proof Exploration
-| 16:30 - 17:00 | Nathan Guermond | Ground Stratification for a Logic of Definitions with Induction
+| 16:00 - 16:30 | [Frank Pfenning](http://www.cs.cmu.edu/~fp/) | [CoLF Logic Programming as Infinitary Proof Exploration](papers/5.pdf)
+| 16:30 - 17:00 | Nathan Guermond | [Ground Stratification for a Logic of Definitions with Induction](papers/6.pdf)
 
 ## Accepted Papers
 
