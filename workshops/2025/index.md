@@ -73,7 +73,7 @@ A selection of the presented papers will be published online in the [Electronic 
   >  
   > In this invited talk, I survey these and other approaches discussing verifiability and trusted computing bases, maintenance overhead, performance, and future directions, as well as the ability to internally reason about what programs can exist.
 
-## Preliminary Program
+## Program
 
 |Time           | Speaker | Title
 |---------------|---------|--------------------------------------------------------------------|
