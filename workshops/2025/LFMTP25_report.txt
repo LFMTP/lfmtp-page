@@ -1,0 +1,52 @@
+20th International Workshop on Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP)
+19 July 2025
+
+Organized by Kaustuv Chaudhuri and Daniele Nantes-Sobrinho
+Birmingham, UK
+Affiliated with FSCD 2025
+
+CfP and Reviewing:
+
+The CfP asked for both formal papers and short abstracts/work-in-progress (WiP) submissions.
+
+The PC composition was as follows:
+
+    David Baelde (ENS Rennes, IRISA)
+    Kaustuv Chaudhuri (Inria), co-chair
+    Thaynara A. de Lima (IME, Federal University Goiás, Brazil)
+    Temur Kutsia (RISC, Johannes Kepler University Linz, Austria)
+    Marina Lenisa (University of Udine)
+    Chris Martens (Northeastern University, USA)
+    Daniele Nantes-Sobrinho (Imperial College London), co-chair
+    Giselle Reis (CMU, Qatar)
+    Daniel Ventura (INF, Federal University Goiás, Brazil)
+
+(5 women, 4 men, from North and South America, Europe, and the Middle East.)
+
+The workshop received 8 abstract submissions, which were assigned to 9 PC members.
+Almost every paper received 3 reviews. (One had only two reviews.)
+Of these, 6 submissions were selected for presentation at the workshop.
+One of these was stated to be a WiP submission, but it nevertheless was a substantial contribution.
+
+All accepted contributed papers were presented at the workshop. There was an audience of 10-15 for every talk (slightly more for the invited talks). Unfortunately the exact number of audience members were not recorded, nor did FSCD provide us with any data about the number of registrants who indicated LFMTP as a primary workshop.
+
+There were two invited talks:
+
+    Sonia Marin (University of Birmingham)
+    “Intuitionistic modalities through proof theory”
+
+    Yannick Forster (Inria)
+    “Obtaining executable programs from dependently typed proof assistants”
+
+The invited presentations received 60 minutes each, held at the starts of the morning and the afternoon sessions.
+All 6 contributed presentations, including the WiP, received 30 minutes.
+
+Proceedings:
+
+The proceedings have appeared as EPTCS <TBD>. See https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP2025
+Publishing with EPTCS was free, quick, and convenient.
+All papers are available on the EPTCS web-site and mirrored on arXiv.
+
+Post proceedings:
+
+There was no demand for a post proceedings or a journal special issue from the PC or any participant. Therefore no such action is planned.
