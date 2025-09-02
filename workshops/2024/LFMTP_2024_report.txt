@@ -1,0 +1,37 @@
+Logical Frameworks and Meta-Languages: Theory and Practice
+2024-07-08
+organized by Florian Rabe, Claudio Sacerdoti Coen
+in Tallinn, Estonia
+satellite event of FSCD (which was held with LiCS and ICALP)
+
+CfP and Reviewing:
+
+The CfP asked for both formal papers and short abstracts/work-in-progress (WiP) submissions.
+The workshop received 8 submissions, which were assigned to 10 PC members (of which 1 was a woman).
+Each paper received 3 reviews.
+To accommodate both a late submission deadline and the early-bird conference registration deadline, the PC members were asked to give immediately feedback on whether the submission is acceptable for at least a WiP presentation.
+Authors were then notified immediately that they were highly likely to be able to speak at the workshop.
+
+Programme:
+
+In the end, 6 submissions materialized and were accepted for presentation.
+These included 4 regular submissions, 1 WiP submission, and 1 regular submission (*) that was only accepted as WiP.
+1 regular submission was initially accepted conditionally and briefly re-reviewed before being accepted.
+Additionally, Carsten Schürmann gave an invited talk.
+
+The invited presentation received 60 minutes.
+All 6 contributed presentations received 45 minutes.
+The latter choice worked well, making the (often technical) presentations more relaxed and allowing more time for questions.
+The speakers for (*) did not show up at the workshop.
+
+Attendance during the sessions (in-person+zoom participants) was 10+1 for the invited talk and 14+0, 8+3, and 8+3 for the 3 sessions with 2 contributed talks each.
+
+Proceedings:
+
+We applied for EPTCS proceedings when it was clear that we would have enough strong submissions.
+The proceedings have appeared as EPTCS 404. See https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP2024
+Publishing with EPTCS was free, quick, and convenient.
+Additionally all pdf-papers are available on the LFMTP homepage.
+
+One author asked us whether we plan a special issue for LFMTP.
+We do not have plans for that yet, and the steering committee may have an opinion on whether that is worth trying, maybe jointly with another workshop like LSFA.
