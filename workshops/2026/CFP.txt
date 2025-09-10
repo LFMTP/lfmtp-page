@@ -1,18 +1,18 @@
 ====================================================================
 
-               Call for papers -- LFMTP 2025
+               Call for papers -- LFMTP 2026
 
            Logical Frameworks and Meta-Languages:
                    Theory and Practice
 
-             Birmingham, UK -- July 19th, 2025
-             Affiliated with FSCD 2025
+             TBD, 2026
+             Affiliated with FSCD 2026
 
-              https://lfmtp.org/workshops/2025
+              https://lfmtp.org/workshops/2026
 
 ====================================================================
 
-      Abstract submission deadline: May 9, 2025 (AoE)
+      Abstract submission deadline: May 9, 2026 (AoE)
 
 
 Logical frameworks and meta-languages form a common substrate for
@@ -62,13 +62,13 @@ The workshop's program will include contributed and invited talks.
 
 ## Important Dates
 
-Abstract submission deadline: May 9, 2025 (AoE)
-Paper submission deadline: May 16, 2025 (AoE)
-Notification to authors: June 6, 2025 (AoE)
+Abstract submission deadline: May 9, 2026 (AoE)
+Paper submission deadline: May 16, 2026 (AoE)
+Notification to authors: June 6, 2026 (AoE)
 
 ## Submission
 
-Submit on EasyChair: https://easychair.org/conferences?conf=lfmtp2025
+Submit on EasyChair: https://easychair.org/conferences?conf=lfmtp2026
 
 In addition to regular papers, we welcome/encourage the submission of
 "work in progress" reports, in a broad sense. Those do not need to
@@ -86,12 +86,4 @@ Electronic Proceedings in Theoretical Computer Science (EPTCS).
 
 ## Program Committee
 
-* David Baelde (ENS Rennes, IRISA)
-* Kaustuv Chaudhuri, Co-Chair (Inria)
-* Thaynara A. de Lima (IME, Federal University Goiás, Brazil)
-* Temur Kutsia (RISC, Johannes Kepler University Linz, Austria)
-* Marina Lenisa (University of Udine)
-* Chris Martens (Northeastern University, USA)
-* Daniele Nantes-Sobrinho, Co-Chair (Imperial College London)
-* Giselle Reis (CMU, Qatar)
-* Daniel Ventura (INF, Federal University Goiás, Brazil)
+TBD
