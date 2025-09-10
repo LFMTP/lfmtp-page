@@ -13,14 +13,19 @@ venues for presenting results on type theories and logical frameworks.
 
 **LFMTP: International Workshop on Logical Frameworks and
   Meta-Languages: Theory and Practice (2006 - present)**
-
- * [LFMTP'24](./2024/){:target="_blank"}, Tallinn, Estonia, Italy, affiliated with
-   [FSCD'24](https://easyconferences.eu/fscd2023/), by Florian Rabe (University Erlangen-Nuremberg) and Claudio Sacerdoti Coen (University Bologna)
+  
+ * [LFMTP'25](./2025/){:target="_blank"}, Birmingham, UK, affiliated with
+   [FSCD'25](https://fscd2025.github.io/), organized by Kaustuv Chaudhuri, Co-Chair (Inria) and Daniele Nantes-Sobrinho, Co-Chair (Imperial College London).
+   
+ * [LFMTP'24](./2024/){:target="_blank"}, Tallinn, Estonia, affiliated with
+   [FSCD'24](https://cs.ioc.ee/fscd24/), organized by Florian Rabe (University Erlangen-Nuremberg) and Claudio Sacerdoti Coen (University Bologna).
+   [Proceedings](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP2024).
 
  * [LFMTP'23](./2023/){:target="_blank"}, Rome, Italy, affiliated with
-   [FSCD'23](https://cs.ioc.ee/fscd24/), organized organized by Alberto
+   [FSCD'23](https://easyconferences.eu/fscd2023/), organized by Alberto
    Ciaffaglione (Università degli Studi di Udine) and Carlos Olarte (LIPN,
-   Université Sorbonne Paris Nord)
+   Université Sorbonne Paris Nord).
+   [Proceedings](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP23)
 
  * [LFMTP'22](./2022){:target="_blank"}, Haifa, Israel, affiliated with [FLoC
    2022](https://floc2022.org/), organized by David Baelde (ENS Cachan, France)
