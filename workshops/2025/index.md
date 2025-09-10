@@ -1,6 +1,6 @@
 # LFMTP 2025
 
-**July 19, Birmingham, UK, associated with FSCD at [FSCD 2025](https://fscd2025.github.io)**
+**July 19, Birmingham, UK, associated with [FSCD 2025](https://fscd2025.github.io)**
 
 ## Scope
 
