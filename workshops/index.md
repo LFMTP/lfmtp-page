@@ -13,6 +13,9 @@ venues for presenting results on type theories and logical frameworks.
 
 **LFMTP: International Workshop on Logical Frameworks and
   Meta-Languages: Theory and Practice (2006 - present)**
+
+ * [LFMTP'26](./2026/){:target="_blank"}, Lisbon, PT, affiliated with
+   [FLoC 2026](https://www.floc26.org/), organized by Sophie Tourret, Co-Chair (Inria) and Olivier Hermant, Co-Chair (Mines Paris -- PSL).
   
  * [LFMTP'25](./2025/){:target="_blank"}, Birmingham, UK, affiliated with
    [FSCD'25](https://fscd2025.github.io/), organized by Kaustuv Chaudhuri, Co-Chair (Inria) and Daniele Nantes-Sobrinho, Co-Chair (Imperial College London).
