@@ -1,6 +1,6 @@
 # LFMTP 2026
 
-**TBD, associated with FSCD at [FSCD 2026](https://fscd2026.github.io/)**
+**associated with [FLoC](https://www.floc26.org/) at [FSCD 2026](https://fscd2026.github.io/)**
 
 ## Scope
 
@@ -65,13 +65,15 @@ TBD
 
 ## Program Committee
 
-TBD
+Olivier Hermant, co-chair, Mines Paris -- PSL
+Sophie Tourret, co-chair, Inria
 
-## Important Dates
+## Important Dates (tentative)
 
 - Abstract submission deadline: May 2, 2026
 - Paper submission deadline:    May 9, 2026
-- Notification to authors:      June 6, 2026
+- Notification to authors:      June 8, 2026
+- Workshop: July 24, 2026
 
 All deadlines are AoE (anywhere on earth)
 
