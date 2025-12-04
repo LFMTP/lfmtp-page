@@ -80,7 +80,7 @@ All deadlines are AoE (anywhere on earth)
 ## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2026/CFP.txt)
 
 
-Submit on EasyChair: [https://easychair.org/conferences?conf=lfmtp2026](https://easychair.org/conferences?conf=lfmtp2026)
+Submission TBA.
 
 In addition to regular papers, we welcome/encourage the submission of
 "work in progress" reports, in a broad sense. Those do not need to
