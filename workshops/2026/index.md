@@ -65,29 +65,38 @@ TBD
 
 ## Program Committee
 
-Olivier Hermant, co-chair, Mines Paris -- PSL
-Sophie Tourret, co-chair, Inria
+Oliver Hermant (Chair, Mines Paris PSL)
+Miguel Pagano (Universidad Nacional de Córdoba)
+Elaine Pimentel (UCL)
+Loïc Pujet (Stockholm University)
+Florian	Rabe (FAU Erlangen-Nürnberg)
+Alvaro Tasistro (Universidad ORT Uruguay)
+Alwen Tiu (The Australian National University)
+Sophie Tourret (Chair, INRIA and MPI for Informatics)
+Niccolò	Veltri (Tallinn University of Technology)
+Yiming	Xu (LMU Munich)
 
-## Important Dates (tentative)
+## Important Dates
 
-- Abstract submission deadline: May 2, 2026
-- Paper submission deadline:    May 9, 2026
-- Notification to authors:      June 8, 2026
-- Workshop: July 24, 2026
+ - Abstract submission deadline: April 21
+ - Submission deadline: April 28
+ - Notifiation to authors : May 28
+ - early registration: June 1
+ - Final version due: June 10
+ - Workshop: July 24
 
 All deadlines are AoE (anywhere on earth)
 
 ## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2026/CFP.txt)
 
+We welcome three kinds of contributions: *regular papers*, *system descriptions*, and *"work in progress" reports*, in a broad sense. 
 
-Submission TBA.
+System descriptions must be accompanied by an artifact containing the system described. "Work in progress" reports do not need to describe fully polished research results, but should be of interest for the community at large.
 
-In addition to regular papers, we welcome/encourage the submission of
-"work in progress" reports, in a broad sense. Those do not need to
-report fully polished research results, but should be of interest for
-the community at large.
+Submitted papers should be in PDF, formatted using the [EPTCS style](https://info.eptcs.org/) guidelines. The length is restricted (excluding references) to 15 pages for regular papers, 10 pages for system descriptions and 8 pages for "work in progress" papers. Appendices are allowed but will be excluded from the final paper, and the pc members are not required to take them into account for their reviews.
 
-Submitted papers should be in PDF, formatted using the [EPTCS style](https://info.eptcs.org/)
-guidelines. The length is restricted to 15 pages for regular papers and
-8 pages for "Work in Progress" papers.
+Submission is via the FLoC instance of HotCRP: [https://submissions.floc26.org/lfmtp/](https://submissions.floc26.org/lfmtp/) .
 
+## Contact
+
+All questions about LFMTP 26 should be emailed to lfmtp26_chairs 'at' inria.fr .
