@@ -65,16 +65,16 @@ TBD
 
 ## Program Committee
 
-Oliver Hermant (Chair, Mines Paris PSL)
-Miguel Pagano (Universidad Nacional de Córdoba)
-Elaine Pimentel (UCL)
-Loïc Pujet (Stockholm University)
-Florian	Rabe (FAU Erlangen-Nürnberg)
-Alvaro Tasistro (Universidad ORT Uruguay)
-Alwen Tiu (The Australian National University)
-Sophie Tourret (Chair, INRIA and MPI for Informatics)
-Niccolò	Veltri (Tallinn University of Technology)
-Yiming	Xu (LMU Munich)
+Oliver Hermant (Chair, Mines Paris PSL)  
+Miguel Pagano (Universidad Nacional de Córdoba)  
+Elaine Pimentel (UCL)  
+Loïc Pujet (Stockholm University)  
+Florian	Rabe (FAU Erlangen-Nürnberg)  
+Alvaro Tasistro (Universidad ORT Uruguay)  
+Alwen Tiu (The Australian National University)  
+Sophie Tourret (Chair, INRIA and MPI for Informatics)  
+Niccolò	Veltri (Tallinn University of Technology)  
+Yiming	Xu (LMU Munich)  
 
 ## Important Dates
 
@@ -99,4 +99,4 @@ Submission is via the FLoC instance of HotCRP: [https://submissions.floc26.org/l
 
 ## Contact
 
-All questions about LFMTP 26 should be emailed to lfmtp26_chairs 'at' inria.fr .
+All questions about LFMTP 26 should be emailed to [lfmtp26_chairs 'at' inria.fr](mailto:lfmtp26_chairs 'at' inria.fr).

@@ -5,85 +5,115 @@
            Logical Frameworks and Meta-Languages:
                    Theory and Practice
 
-             TBD, 2026
-             Affiliated with FSCD 2026
+             Lisbon, Portugal, July 24, 2026
+               Affiliated with FSCD 2026
 
-              https://lfmtp.github.io/lfmtp-page/workshops/2026/
+     https://lfmtp.github.io/lfmtp-page/workshops/2026/
 
 ====================================================================
 
-      Abstract submission deadline: May 9, 2026 (AoE)
+      Abstract submission deadline: April 21, 2026 (AoE)
+      Paper submission deadline: April 28
+      Submission link: https://submissions.floc26.org/lfmtp/
 
 
 Logical frameworks and meta-languages form a common substrate for
-representing, implementing, and reasoning about a wide variety of
-deductive systems of interest in logic and computer science. Their design
-and implementation, and their use in reasoning tasks ranging from the
-correctness of software to the properties of formal computational systems,
-have been the focus of considerable research over the past three decades.
+representing, implementing and reasoning about a wide variety of
+deductive systems of interest in logic and computer science. Their
+design, implementation and their use in reasoning tasks, ranging from
+the correctness of software to the properties of formal systems, have
+been the focus of considerable research over the last two decades.
 
-The annual LFMTP workshop brings together designers, implementors, and
-practitioners to discuss various aspects of the structure and utility of
-logical frameworks, including the treatment of variable binding, inductive
-and co-inductive reasoning techniques, and qualitative aspects of
-reasoning including expressivity and lucidity.
+This workshop will bring together designers, implementors and
+practitioners to discuss various aspects impinging on the structure
+andutility of logical frameworks, including the treatment of variable
+binding, inductive and co-inductive reasoning techniques and the
+expressiveness and lucidity of the reasoning process.  Submission
+Guidelines
 
-LFMTP 2025 will provide researchers a forum to present state-of-the-art
-techniques and discuss progress in areas such as the following:
+## Submissions
 
-* Encoding and reasoning about the meta-theory of programming languages,
-  logical systems and related formally specified systems.
+We welcome three kinds of contributions: *regular papers*, *system
+descriptions*, and *"work in progress" reports*, in a broad sense.
 
-* Theoretical and practical issues concerning the treatment of variable
-  binding, especially the representation of, and reasoning about,
-  datatypes defined from binding signatures.
-
-* Logical treatments of inductive and co-inductive definitions and
-  associated reasoning techniques, including inductive types of higher
-  dimension in homotopy type theory
-
-* Graphical languages for building proofs, applications in geometry,
-  equational reasoning and category theory.
-
-* New theory contributions: canonical and substructural frameworks,
-  contextual frameworks, proof-theoretic foundations supporting
-  binders, functional programming over logical frameworks,
-  homotopy and cubical type theory.
-
-* Applications of logical frameworks: proof-carrying architectures,
-  proof exchange and transformation, program refactoring, etc.
-
-* Techniques for programming with binders in functional programming
-  languages such as Haskell, OCaml or Agda, and logic programming
-  languages such as lambda Prolog or Alpha-Prolog.
-
-The workshop's program will include contributed and invited talks.
-
-
-## Important Dates
-
-Abstract submission deadline: May 9, 2026 (AoE)
-Paper submission deadline: May 16, 2026 (AoE)
-Notification to authors: June 6, 2026 (AoE)
-
-## Submission
-
-Submit on EasyChair: https://easychair.org/conferences?conf=lfmtp2026
-
-In addition to regular papers, we welcome/encourage the submission of
-"work in progress" reports, in a broad sense. Those do not need to
-report fully polished research results, but should be of interest for
-the community at large.
+System descriptions must be accompanied by an artifact containing the
+system described. "Work in progress" reports do not need to describe
+fully polished research results, but should be of interest for the
+community at large.
 
 Submitted papers should be in PDF, formatted using the EPTCS style
-guidelines. The length is restricted to 15 pages for regular papers and
-8 pages for "Work in Progress" papers.
+(https://info.eptcs.org/) guidelines. The length is restricted
+(excluding references) to 15 pages for regular papers, 10 pages for
+system descriptions and 8 pages for "work in progress"
+papers. Appendices are allowed but will be excluded from the final
+paper, and the pc members are not required to take them into account
+for their reviews.
 
-## Proceedings
+Submission is via the FLoC instance of HotCRP:
+https://submissions.floc26.org/lfmtp/ .
+
+## List of Topics
+
+LFMTP 2026 will provide researchers a forum to present
+state-of-the-art techniques and discuss progress in areas such as the
+following:
+
+-    Encoding and reasoning about the meta-theory of programming
+-    languages, logical systems and related formally specified
+-    systems.  Theoretical and practical issues concerning the
+-    treatment of variable binding, especially the representation of,
+-    and reasoning about, datatypes defined from binding signatures.
+-    Logical treatments of inductive and co-inductive definitions and
+-    associated reasoning techniques, including inductive types of
+-    higher dimension in homotopy type theory.  Graphical languages
+-    for building proofs, applications in geometry, equational
+-    reasoning and category theory.  New theory contributions:
+-    canonical and substructural frameworks, contextual frameworks,
+-    proof-theoretic foundations supporting binders, functional
+-    programming over logical frameworks, homotopy and cubical type
+-    theory.  Applications of logical frameworks: proof-carrying
+-    architectures, proof exchange and transformation, program
+-    refactoring, etc.  Techniques for programming with binders in
+-    functional programming languages such as Haskell, OCaml or Agda,
+-    and logic programming languages such as lambda Prolog or
+-    Alpha-Prolog.
+
+## Schedule
+
+ - Abstract submission deadline: April 21
+ - Submission deadline: April 28
+ - Notifiation to authors : May 28
+ - early registration: June 1
+ - Final version due: June 10
+ - Workshop: July 24 (confirmed)
+
+
+## Program Committee
+
+Oliver Hermant (Chair, Mines Paris PSL)
+Miguel Pagano (Universidad Nacional de Córdoba)
+Elaine Pimentel (UCL)
+Loïc Pujet (Stockholm University)
+Florian	Rabe (FAU Erlangen-Nürnberg)
+Alvaro Tasistro (Universidad ORT Uruguay)
+Alwen Tiu (The Australian National University)
+Sophie Tourret (Chair, INRIA and MPI for Informatics)
+Niccolò	Veltri (Tallinn University of Technology)
+Yiming	Xu (LMU Munich)
+
+## Invited Speakers
+
+TBA
+
+## Publication
 
 A selection of the presented papers will be published online in the
 Electronic Proceedings in Theoretical Computer Science (EPTCS).
 
-## Program Committee
+## Venue
 
-TBD
+The conference will be held in Lisbon, Portugal, 24 July 2026. LFMTP
+2026 is a workshop affiliated with FLOC 2026.  Contact
+
+All questions about LFMTP 26 should be emailed to lfmtp26_chairs 'at'
+inria.fr .
