@@ -87,7 +87,9 @@ Yiming	Xu (LMU Munich)
 
 All deadlines are AoE (anywhere on earth)
 
-## Submission [Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2026/CFP.txt)
+## Submission 
+
+[Call for Papers](https://lfmtp.github.io/lfmtp-page/workshops/2026/CFP.txt)
 
 We welcome three kinds of contributions: *regular papers*, *system descriptions*, and *"work in progress" reports*, in a broad sense. 
 
