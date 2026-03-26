@@ -13,7 +13,7 @@
 ====================================================================
 
       Abstract submission deadline: April 21, 2026 (AoE)
-      Paper submission deadline: April 28
+      Paper submission deadline: April 28, 2026 (AoE)
       Submission link: https://submissions.floc26.org/lfmtp/
 
 
@@ -26,10 +26,9 @@ been the focus of considerable research over the last two decades.
 
 This workshop will bring together designers, implementors and
 practitioners to discuss various aspects impinging on the structure
-andutility of logical frameworks, including the treatment of variable
+and utility of logical frameworks, including the treatment of variable
 binding, inductive and co-inductive reasoning techniques and the
-expressiveness and lucidity of the reasoning process.  Submission
-Guidelines
+expressiveness and lucidity of the reasoning process.
 
 ## Submissions
 
@@ -85,10 +84,10 @@ following:
 
  - Abstract submission deadline: April 21
  - Submission deadline: April 28
- - Notifiation to authors : May 28
+ - Notification to authors: May 28
  - early registration: June 1
  - Final version due: June 10
- - Workshop: July 24 (confirmed)
+ - Workshop: July 24
 
 ## Program Committee
 
@@ -115,7 +114,9 @@ Electronic Proceedings in Theoretical Computer Science (EPTCS).
 ## Venue
 
 The conference will be held in Lisbon, Portugal, 24 July 2026. LFMTP
-2026 is a workshop affiliated with FLOC 2026.  Contact
+2026 is a workshop affiliated with FLOC 2026.  
+
+## Contact
 
 All questions about LFMTP 26 should be emailed to lfmtp26_chairs 'at'
 inria.fr .
