@@ -57,6 +57,9 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Program
 
+## Accepted Papers
+
+
 - *Formalizing Calculi with Unconventional Substitution*, M. Alves, J. Santo, L. Pinto
 - *Towards Generic Semantics for Substructural Generic Quantification*,
 T. Antoine, D. Baelde
@@ -66,9 +69,6 @@ T. Antoine, D. Baelde
 - *Proof Theory and Type Theory: Distinct Foundations for Designing Proof Assistants*, D. Miller
 - *A Strategy Language for Controlled Proof Search*, R. Sidhoum, S. Robillard, D. Delahaye
 - *Barbed Similarity for the π-Calculus in Beluga: A Case Study in Coinductive Reasoning*, L. Trogni, G. Cecilia, A. Momigliano
-
-
-## Accepted Papers
 
 
 
