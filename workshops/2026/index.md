@@ -60,7 +60,7 @@ A selection of the presented papers will be published online in the [Electronic 
 ## Accepted Papers
 
 
-- *Formalizing Calculi with Unconventional Substitution*, M. Alves, J. Santo, L. Pinto
+- *Formalizing Calculi with Unconventional Substitution*, M. Alves, J. Esp&iacute;rito Santo, L. Pinto
 - *Towards Generic Semantics for Substructural Generic Quantification*,
 T. Antoine, D. Baelde
 - *Anti-Unification Completeness Analysis in PVS*, M. Ayala-Rincon, T. de Lima, M. Lima, T. Kutsia, M. Mercandeli-Rodrigues
