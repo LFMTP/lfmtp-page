@@ -53,7 +53,7 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Invited Speakers
 
-TBD
+[Alberto Momigliano](https://momigliano.di.unimi.it/)
 
 ## Program
 
