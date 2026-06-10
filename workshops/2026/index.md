@@ -89,7 +89,7 @@ Yiming	Xu (LMU Munich)
 
  - Abstract submission deadline: April 21
  - Submission deadline: ~~April 28~~ May 1
- - Notifiation to authors : May 28
+ - Notification to authors : May 28
  - early registration: June 1
  - Final version due: ~~June 10~~ June 17
  - Workshop: July 24
