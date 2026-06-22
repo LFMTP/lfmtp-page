@@ -67,7 +67,7 @@ TBA
 T. Antoine, D. Baelde [pdf](papers/lfmtp26_paper2.pdf)
 - *Anti-Unification Completeness Analysis in PVS*, M. Ayala-Rincon, T. de Lima, M. Lima, T. Kutsia, M. Mercandeli-Rodrigues [pdf](papers/lfmtp26_paper9.pdf)
 - *Work-in-Progress: A Tactic for Pattern Matching in Autosubst*, M. George, K. Stark [pdf](papers/lfmtp26_paper5.pdf)
-- *Proof Theory and Type Theory: Distinct Foundations for Designing Proof Assistants*, D. Miller [pdf](papers/lfmtp26_paper10.pdf)
+- *Proof Theory and Dependent Type Theory: Distinct Foundations for Designing Proof Assistants*, D. Miller [pdf](papers/lfmtp26_paper10.pdf)
 - *A Strategy Language for Controlled Proof Search*, R. Sidhoum, S. Robillard, D. Delahaye [pdf](papers/lfmtp26_paper6.pdf)
 - *Barbed Similarity for the π-Calculus in Beluga: A Case Study in Coinductive Reasoning*, L. Trogni, G. Cecilia, A. Momigliano [pdf](papers/lfmtp26_paper3.pdf)
 
