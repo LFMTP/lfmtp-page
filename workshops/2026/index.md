@@ -53,11 +53,33 @@ A selection of the presented papers will be published online in the [Electronic 
 
 ## Invited Speakers
 
-[Alberto Momigliano](https://momigliano.di.unimi.it/)
+[Alberto Momigliano](https://momigliano.di.unimi.it/), _It's the End of the World as We Know It, and I Feel Funny_
+
+Abstract:
+This is a tale in two parts. The first offers a reappraisal of the history and accomplishments of mechanized metatheory, from the first LFM workshop to the age of AI. We will examine the influence, if any, of benchmarks on our research area (remember POPLmark?), and ask whether there is still work left to do before, as the old Gauls used to fear, the sky falls on mechanized metatheory.
+
+The second part proceeds from the old Gaulish premise that tomorrow never comes. We turn to recent developments in the encoding of substructural systems: from the rediscovery of the unusual effectiveness of Crary's "linear" predicate, to work in progress on a general Rocq library inspired by adjoint logic.
 
 ## Program
 
-TBA
+- 09:00-10:00. Invited Talk.
+  * It’s the End of the World as We Know It, and I Feel Funny (Alberto Moligliano).
+- 10:00-10:30. Coffee Break.
+- 10:30-12:00. Session on Unification.
+
+  * 10:30-11:00. Anti-Unification Completeness Analysis in PVS.
+  * 11:00-11:30. Formalizing Calculi with Unconventional Substitution.
+  * 11:30-12:00. Work-in-Progress: A Tactic for Pattern Matching in Autosubst.
+- 12:00-14:00. Lunch.
+- 14:00-15:00. Session on Calculi.
+
+  * 14:00-14:30. Barbed Similarity for the $\pi$-Calculus in Beluga: A Case Study in Coinductive Reasoning.
+  * 14:30-15:00. A Strategy Language for Controlled Proof Search.
+- 15:00-15:30. Coffee Break.
+- 15:30-16:30. Session on Quantification.
+
+  * 15:30-16:00. Towards Generic Semantics for Substructural Generic Quantification.
+  * 16:00-16:30. Proof Theory and Dependent Type Theory: Distinct Foundations for Designing Proof Assistants.
 
 ## Accepted Papers
 
@@ -75,7 +97,7 @@ T. Antoine, D. Baelde [pdf](papers/lfmtp26_paper2.pdf)
 
 ## Program Committee
 
-Oliver Hermant (Chair, Mines Paris PSL)  
+Olivier Hermant (Chair, Mines Paris PSL)  
 Miguel Pagano (Universidad Nacional de Córdoba)  
 Elaine Pimentel (UCL)  
 Loïc Pujet (Stockholm University)  
