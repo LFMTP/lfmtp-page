@@ -77,7 +77,7 @@ The second part proceeds from the old Gaulish premise that tomorrow never comes.
 
 - 14:00-15:00. Session on Calculi.
 
-  * 14:00-14:30. Barbed Similarity for the $\pi$-Calculus in Beluga: A Case Study in Coinductive Reasoning.
+  * 14:00-14:30. Barbed Similarity for the π-Calculus in Beluga: A Case Study in Coinductive Reasoning.
   * 14:30-15:00. A Strategy Language for Controlled Proof Search.
 
 - 15:00-15:30. Coffee Break.
