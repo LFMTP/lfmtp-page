@@ -63,7 +63,7 @@ The second part proceeds from the old Gaulish premise that tomorrow never comes.
 ## Program and Schedule
 
 - 09:00-10:00. Invited Talk.
-  * It's the End of the World as We Know It, and I Feel Funny (Alberto Moligliano).
+  * It's the End of the World as We Know It, and I Feel Funny (Alberto Momigliano).
 
 - 10:00-10:30. Coffee Break.
 
