@@ -49,7 +49,7 @@ The workshop's program will include contributed and invited talks.
 
 ## Proceedings
 
-A selection of the presented papers will be published online in the [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://eptcs.org).
+A selection of the presented papers have been published online in the [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://published.eptcs.org/) series as [volume 448](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP26).
 
 ## Invited Speakers
 
