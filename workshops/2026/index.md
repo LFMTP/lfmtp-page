@@ -62,12 +62,14 @@ The second part proceeds from the old Gaulish premise that tomorrow never comes.
 
 ## Program and Schedule
 
-- 09:00-10:00. Invited Talk.
+The workshop will happen in room C5.02 (main building, fifth floor), and the program from FLOC in [available here](https://program.floc26.org/LFMTP-index).
+
+- 09:00-10:00. Invited Talk. (_Chair: Olivier Hermant_)
   * It's the End of the World as We Know It, and I Feel Funny (Alberto Momigliano).
 
 - 10:00-10:30. Coffee Break.
 
-- 10:30-12:00. Session on Unification.
+- 10:30-12:00. Session on Unification. (_Chair: Gopalan Nadathur_)
 
   * 10:30-11:00. Anti-Unification Completeness Analysis in PVS.
   * 11:00-11:30. Formalizing Calculi with Unconventional Substitution.
@@ -75,14 +77,14 @@ The second part proceeds from the old Gaulish premise that tomorrow never comes.
   
 - 12:00-14:00. Lunch.
 
-- 14:00-15:00. Session on Calculi.
+- 14:00-15:00. Session on Calculi. (_Chair: Théo Winterhalter_)
 
   * 14:00-14:30. Barbed Similarity for the π-Calculus in Beluga: A Case Study in Coinductive Reasoning.
   * 14:30-15:00. A Strategy Language for Controlled Proof Search.
 
 - 15:00-15:30. Coffee Break.
 
-- 15:30-16:30. Session on Quantification.
+- 15:30-16:30. Session on Quantification. (_Chair: Alberto Momigliano_)
 
   * 15:30-16:00. Towards Generic Semantics for Substructural Generic Quantification.
   * 16:00-16:30. Proof Theory and Dependent Type Theory: Distinct Foundations for Designing Proof Assistants.
