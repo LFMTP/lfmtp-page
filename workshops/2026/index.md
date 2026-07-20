@@ -49,7 +49,7 @@ The workshop's program will include contributed and invited talks.
 
 ## Proceedings
 
-A selection of the presented papers have been published online in the [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://published.eptcs.org/) series as [volume 448](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP26).
+A selection of the presented papers have been published online in the [Electronic Proceedings in Theoretical Computer Science (EPTCS)](https://published.eptcs.org/) series as [volume 448](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?LFMTP26) and a full pdf version is [available here](https://eptcs.org/Published/LFMTP26/Proceedings.pdf).
 
 ## Invited Speakers
 
@@ -62,7 +62,7 @@ The second part proceeds from the old Gaulish premise that tomorrow never comes.
 
 ## Program and Schedule
 
-The workshop will happen in room C5.02 (main building, fifth floor), and the program from FLOC in [available here](https://program.floc26.org/LFMTP-index).
+The workshop will happen in room C5.02 (main conference building, fifth floor), and the program is also [available online from FLoC](https://program.floc26.org/LFMTP-index).
 
 - 09:00-10:00. Invited Talk. (_Chair: Olivier Hermant_)
   * It's the End of the World as We Know It, and I Feel Funny (Alberto Momigliano).
